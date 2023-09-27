@@ -11,7 +11,7 @@ Digitale geletterdheid.
 * **locatie**: [Victor J. Koningsbergergebouw](https://www.uu.nl/victor-j-koningsbergergebouw),
   Universiteit Utrecht  
 * **datum en tijd**: 9 november 2023, 9:00 - 17:30 uur
-* [**aanmelden**](https://www.smink-registratie.nl/ieni/) {button}`primary` - 
+* [**aanmelden**](https://www.smink-registratie.nl/ieni/) - 
   neem een collega mee als gast, zonder extra kosten
 
 Er wordt nog hard gewerkt aan het programma: binnenkort hier meer.
