@@ -14,4 +14,45 @@ Digitale geletterdheid.
 * [**aanmelden**](https://www.smink-registratie.nl/ieni/) - 
   neem een collega mee als gast, zonder extra kosten
 
+:::{admonition} binnenkort meer!
 Er wordt nog hard gewerkt aan het programma: binnenkort hier meer.
+:::
+
+::::{grid} 1 1 2 4
+
+:::{card}
+**AI**
+:::
+
+:::{card}
+**Digitale geletterdheid**
+:::
+
+:::{card}
+**Informatica**
+:::
+
+:::{card}
+**Physical computing**
+:::
+::::
+
+::::{grid} 1 1 2 4
+:::{card}
+:link: chatgpt-voor-docenten
+ChatGPT voor docenten
+:::
+
+:::{card}
+:link: slimzoeken
+Slim zoeken
+:::
+
+:::{card}
+Pilot open leermaterialen O&O-Informatica
+:::
+
+:::{card}
+Werkgroep Physical computing
+:::
+::::
