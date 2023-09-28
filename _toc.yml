@@ -13,5 +13,5 @@ parts:
           - file: path/to/part1/chapter2/section1
   - caption: Informatica
     chapters:
-      - file: path/to/part2/chapter1
+      - file: inf/pilot-oeno-inf
       - file: path/to/part2/chapter2
