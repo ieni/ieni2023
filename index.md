@@ -88,7 +88,7 @@ Slim zoeken
 :::{card}
 :link: inf/informatica-aanpak
 Hoe pak je je informatica-les aan?  
-*Heleen Kok*
+*Heleen Kamphuis*
 :::
 
 :::{card}
