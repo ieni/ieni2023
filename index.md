@@ -15,8 +15,18 @@ Digitale geletterdheid.
   neem een collega mee als gast, zonder extra kosten
 
 :::{admonition} binnenkort meer!
-Er wordt nog hard gewerkt aan het programma: binnenkort hier meer.
+Er wordt nog hard gewerkt aan het programma: 
+het onderstaande programma is voorlopig, en kan nog gewijzigd worden.
+Binnenkort hier meer. 
 :::
+
+::::{grid} 1 1 1 1
+
+:::{card} Keynote
+(we houden de spanning er nog even in...)
+:::
+
+::::
 
 ::::{grid} 1 1 2 4
 
@@ -39,21 +49,72 @@ Er wordt nog hard gewerkt aan het programma: binnenkort hier meer.
 
 ::::{grid} 1 1 2 4
 :::{card}
+:link: leren-programmeren-met-ai
+Leren programmeren met AI  
+*Johan Jeuring*
+:::
+
+:::{card}
+:link: ct-in-je-vak
+Computational Thinking in je vak  
+*Jacqueline Nijenhuis-Voogt*
+:::
+
+:::{card}
+Pilot open leermaterialen  
+[O&O projecten](inf/pilot-oeno-inf)  
+[Informatica keuzethema's](inf/keuzethemas)
+:::
+
+:::{card}
+:link: pc/borduren
+Borduren (en meer) met Scratch en de microbit  
+*Pauline Maas*
+:::
+::::
+
+::::{grid} 1 1 2 4
+:::{card}
 :link: chatgpt-voor-docenten
 ChatGPT voor docenten
 :::
 
 :::{card}
 :link: slimzoeken
-Slim zoeken
+Slim zoeken  
+*Maarten Sprenger*
 :::
 
 :::{card}
-:link: pilot-oeno-inf
-Pilot open leermaterialen O&O-Informatica
+:link: inf/informatica-aanpak
+Hoe pak je je informatica-les aan?  
+*Heleen Kok*
 :::
 
 :::{card}
+[Microbloks](pc/microblocks) *Peter Matthijsen*  
+[Programmeren in het PO ](pc/po-programmeren) - *Gerard Dummer*
+:::
+::::
+
+::::{grid} 1 1 2 4
+:::{card}
+:link: chatgpt-voor-docenten
+ChatGPT voor docenten
+:::
+
+:::{card}
+:link: dg/mediawijsheid
+???
+:::
+
+:::{card}
+:link: inf/cisco
+Skills for all (Cisco): Cybersecurity en Netwerken
+:::
+
+:::{card}
+:link: pc/werkgroep-physical-computing
 Werkgroep Physical computing
 :::
 ::::

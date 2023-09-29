@@ -1,8 +1,8 @@
 # Slim zoeken
 
-**Zelf sturen of gestuurd worden?**
+*Zelf sturen of gestuurd worden?*
 
-*Maarten Sprenger* - https://www.slimzoeken.nu
+**Maarten Sprenger** - https://www.slimzoeken.nu
 
 ```{image} ../assets/slim-logovierkant-2304.png
 :alt: Slim zoeken logo

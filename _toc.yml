@@ -3,15 +3,20 @@ root: index
 parts:
   - caption: AI/ChatGPT
     chapters:
+      - file: ai/leren-programmeren-met-ai
       - file: ai/chatgpt-voor-docenten
-      - file: path/to/part2/chapter2
   - caption: Digitale geletterdheid
     chapters:
+      - file: dg/ct-in-je-vak
       - file: dg/slimzoeken
-      - file: path/to/part1/chapter2
-        sections:
-          - file: path/to/part1/chapter2/section1
   - caption: Informatica
     chapters:
       - file: inf/pilot-oeno-inf
-      - file: path/to/part2/chapter2
+      - file: inf/keuzethemas
+      - file: inf/informatica-aanpak      
+      - file: inf/skills
+  - caption: Physical computing
+    chapters:
+      - file: pc/borduren
+      - file: pc/microblocks
+      - file: pc/werkgroep-physical-computing
