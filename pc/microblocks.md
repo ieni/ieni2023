@@ -1,4 +1,4 @@
-# microblocks: physical computing met *Snap!*
+# Microblocks: physical computing met *Snap!*
 
 **Peter Mathijssen**
 
@@ -9,5 +9,7 @@ maar ook goed te gebruiken voor PO- en VO-leerlingen.
 
 Met *microblocks* kun je Snap!-programma's later werken op microbits
 en andere physical computing-systemen.
+
+Zie: https://wiki.microblocks.fun/en/snap
 
 (tekst volgt)
