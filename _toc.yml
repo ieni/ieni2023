@@ -13,7 +13,7 @@ parts:
     chapters:
       - file: inf/pilot-oeno-inf
       - file: inf/keuzethemas
-      - file: inf/informatica-aanpak      
+      - file: inf/heleen-1   
       - file: inf/skills
   - caption: Physical computing
     chapters:
