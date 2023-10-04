@@ -16,3 +16,8 @@ een gestructureerde manier doen.
 In deze workshop ga je experimenteren met verschillende soorten prompts.
 De nadruk daarbij ligt op het gebruik van ChatGPT om je docent-taken te verlichten,
 en om je leerlingen te helpen. 
+
+
+
+**Workshop, met een beperkt aantal deelnemers (maximaal 35).
+Deze workshop wordt tweemaal gegeven.**
