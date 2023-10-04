@@ -68,9 +68,17 @@ Pilot open leermaterialen
 
 :::{card}
 :link: pc/borduren
-Borduren (en meer) met Scratch en de microbit  
+TurtleStitch: wiskunde op een creatieve manier  
 *Pauline Maas*
 :::
+::::
+
+::::{grid} 1 1 1 1
+
+:::{card} Pauze
+Lunch en markt
+:::
+
 ::::
 
 ::::{grid} 1 1 2 4
@@ -86,13 +94,13 @@ Slim zoeken
 :::
 
 :::{card}
-:link: inf/informatica-aanpak
-Hoe pak je je informatica-les aan?  
+:link: inf/heleen-1
+Programmeren en Design in informatica
 *Heleen Kamphuis*
 :::
 
 :::{card}
-[Microbloks](pc/microblocks) *Peter Matthijsen*  
+[Microbloks](pc/microblocks) - *Peter Matthijsen*  
 [Programmeren in het PO ](pc/po-programmeren) - *Gerard Dummer*
 :::
 ::::
@@ -105,7 +113,9 @@ ChatGPT voor docenten
 
 :::{card}
 :link: dg/mediawijsheid
-???
+mediawijsheid
+
+digitale informatie-vaardigheden
 :::
 
 :::{card}
@@ -117,4 +127,12 @@ Skills for all (Cisco): Cybersecurity en Netwerken
 :link: pc/werkgroep-physical-computing
 Werkgroep Physical computing
 :::
+::::
+
+::::{grid} 1 1 1 1
+
+:::{card} Afsluiting
+Borrel
+:::
+
 ::::
