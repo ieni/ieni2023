@@ -9,14 +9,20 @@ parts:
     chapters:
       - file: dg/ct-in-je-vak
       - file: dg/slimzoeken
+      - file: dg/informatievaardigheden
   - caption: Informatica
     chapters:
       - file: inf/pilot-oeno-inf
       - file: inf/keuzethemas
-      - file: inf/heleen-1   
-      - file: inf/skills
+      - file: inf/heleen-1
+      - file: inf/copilot-in-de-praktijk
   - caption: Physical computing
     chapters:
       - file: pc/borduren
       - file: pc/microblocks
       - file: pc/werkgroep-physical-computing
+  - caption: Informatica en DG 
+    chapters:
+    - file: inf/bit-academy
+    - file: inf/app-maken-met-code-org
+    - file: inf/cisco

@@ -1,6 +1,6 @@
-# LLMs in het programmeeronderwijs
+# Leren programmeren met LLMs
 
-**Johan Jeuring, Universiteit Utrecht en Open Universiteit**
+**Johan Jeuring**, Universiteit Utrecht/Open Universiteit
  
 Het gebruik van LLMs (zoals ChatGPT, Copilot) in het onderwijs heeft ook
 gevolgen voor het Informatica-onderwijs, waaronder zeker het
