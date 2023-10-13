@@ -49,7 +49,7 @@ Binnenkort hier meer.
 
 ::::{grid} 1 1 2 4
 :::{card}
-:link: leren-programmeren-met-ai
+:link: inf/leren-programmeren-met-ai
 Leren programmeren met AI  
 *Johan Jeuring*
 :::
