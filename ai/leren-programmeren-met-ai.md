@@ -14,3 +14,4 @@ bod laten komen:
 * Kunnen we LLMs gebruiken om feedback te geven wanneer studenten leren programmeren? 
 * Op welke manier zetten de aanwezigen LLMs al in in het programmeeronderwijs,
 en wat zijn daarbij de mogelijkheden en uitdagingen?
+
