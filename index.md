@@ -1,8 +1,8 @@
 # i&i conferentie - 9 november 2023
 
 Op 9 november organiseert i&i de najaarsconferentie Informatica en Digitale
-geletterdheid. Een belangrijk thema van deze conferentie is het gebruik van AI
-in het onderwijs, in het bijzonder ChatGPT en andere LLM systemen. Er zijn
+geletterdheid. Een belangrijk thema van deze conferentie is het gebruik van **AI
+in het onderwijs, in het bijzonder ChatGPT en andere LLM systemen**. Er zijn
 hands-on workshops over ChatGPT voor docenten, en sessies over leren
 programmeren met ChatGPT/Copilot en het gebruik van Copilot bij professionele
 software-ontwikkeling. Daarnaast is er de nodige aandacht voor Informatica en
@@ -82,8 +82,11 @@ TurtleStitch: wiskunde op een creatieve manier
 :::
 
 :::{card}
-:link: inf/bit-academy
-Bit-Academy
+[Bit-Academy](inf/bit-academy)
+
+---
+
+(reserve)
 :::
 ::::
 
@@ -114,14 +117,17 @@ Apps maken met code.org
 :::
 
 :::{card}
+:link: pc/werkgroep-physical-computing
+Werkgroep Physical computing
+(markt)
+:::
+
+:::{card}
 :link: pc/microblocks
 Microblocks  
 *Peter Matthijsen*  
 :::
 
-:::{card}
-[Program-meren in het PO ](pc/po-programmeren) - *Gerard Dummer*
-:::
 ::::
 
 ::::{grid} 1 1 2 5
@@ -146,10 +152,13 @@ Informatie-vaardig-heden in je (PO/VO) lessen
 :::
 
 :::{card}
-:link: pc/werkgroep-physical-computing
-Werkgroep Physical computing
-(markt)
+[Program-meren in het PO ](pc/po-programmeren) *Gerard Dummer*
+
+---
+
+[Pluk de data in je vak](dg/pluk-de-data) *Jasper Dukers e.a.*
 :::
+
 
 :::{card}
 :link: inf/cisco
