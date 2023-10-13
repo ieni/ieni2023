@@ -53,13 +53,13 @@ Binnenkort hier meer.
 
 ::::{grid} 1 1 2 5
 :::{card}
-:link: leren-programmeren-met-ai
+:link: ai/leren-programmeren-met-ai
 LLMs in het program-meeronder-wijs  
 *Johan Jeuring*
 :::
 
 :::{card}
-:link: ct-in-je-vak
+:link: dg/ct-in-je-vak
 Computa-tional Thinking in je vak  
 *Jacqueline Nijenhuis-Voogt*
 :::
@@ -92,12 +92,12 @@ Lunch en markt
 
 ::::{grid} 1 1 2 5
 :::{card}
-:link: chatgpt-voor-docenten
+:link: ai/chatgpt-voor-docenten
 ChatGPT voor docenten
 :::
 
 :::{card}
-:link: slimzoeken
+:link: dg/slimzoeken
 Slim zoeken  
 *Maarten Sprenger*
 :::
@@ -114,6 +114,7 @@ Program-meren en Design in informatica
 :::
 
 :::{card}
+:link: inf/app-maken-met-code-org
 Apps maken met code.org
 *Pieter Vorsten-bosch*
 :::
@@ -121,7 +122,7 @@ Apps maken met code.org
 
 ::::{grid} 1 1 2 5
 :::{card}
-:link: chatgpt-voor-docenten
+:link: ai/chatgpt-voor-docenten
 ChatGPT voor docenten
 :::
 
