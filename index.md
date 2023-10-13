@@ -55,7 +55,7 @@ Leren programmeren met AI
 :::
 
 :::{card}
-:link: ct-in-je-vak
+:link: dg/ct-in-je-vak
 Computational Thinking in je vak  
 *Jacqueline Nijenhuis-Voogt*
 :::
