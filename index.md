@@ -28,14 +28,14 @@ Binnenkort hier meer.
 
 ::::
 
-::::{grid} 1 1 2 4
+::::{grid} 1 1 2 5
 
 :::{card}
-**AI**
+**AI (LLMs)**
 :::
 
 :::{card}
-**Digitale geletterdheid**
+**Digitale geletterd-heid**
 :::
 
 :::{card}
@@ -43,33 +43,44 @@ Binnenkort hier meer.
 :::
 
 :::{card}
-**Physical computing**
+**Physical computing & program-meren**
+:::
+
+:::{card}
+**Informatica en DG**
 :::
 ::::
 
-::::{grid} 1 1 2 4
+::::{grid} 1 1 2 5
 :::{card}
 :link: ai/leren-programmeren-met-ai
-Leren programmeren met AI  
+
+LLMs in het program-meeronder-wijs  
 *Johan Jeuring*
 :::
 
 :::{card}
 :link: dg/ct-in-je-vak
-Computational Thinking in je vak  
+
+Computa-tional Thinking in je vak  
 *Jacqueline Nijenhuis-Voogt*
 :::
 
 :::{card}
-Pilot open leermaterialen  
+Pilot open leer-materialen  
 [O&O projecten](inf/pilot-oeno-inf)  
-[Informatica keuzethema's](inf/keuzethemas)
+[INF keuze-thema's](inf/keuzethemas)
 :::
 
 :::{card}
 :link: pc/borduren
 TurtleStitch: wiskunde op een creatieve manier  
 *Pauline Maas*
+:::
+
+:::{card}
+:link: inf/bit-academy
+Bit-Academy
 :::
 ::::
 
@@ -81,51 +92,63 @@ Lunch en markt
 
 ::::
 
-::::{grid} 1 1 2 4
+::::{grid} 1 1 2 5
 :::{card}
-:link: chatgpt-voor-docenten
+:link: ai/chatgpt-voor-docenten
 ChatGPT voor docenten
 :::
 
 :::{card}
-:link: slimzoeken
+:link: dg/slimzoeken
 Slim zoeken  
 *Maarten Sprenger*
 :::
 
 :::{card}
 :link: inf/heleen-1
-Programmeren en Design in informatica
+Program-meren en Design in informatica
 *Heleen Kamphuis*
 :::
 
 :::{card}
 [Microbloks](pc/microblocks) - *Peter Matthijsen*  
-[Programmeren in het PO ](pc/po-programmeren) - *Gerard Dummer*
+[Program-meren in het PO ](pc/po-programmeren) - *Gerard Dummer*
+:::
+
+:::{card}
+:link: inf/app-maken-met-code-org
+Apps maken met code.org
+*Pieter Vorsten-bosch*
 :::
 ::::
 
-::::{grid} 1 1 2 4
+::::{grid} 1 1 2 5
 :::{card}
-:link: chatgpt-voor-docenten
+:link: ai/chatgpt-voor-docenten
 ChatGPT voor docenten
 :::
 
 :::{card}
-:link: dg/mediawijsheid
-mediawijsheid
-
-digitale informatie-vaardigheden
+:link: dg/informatievaardigheden
+Informatie-vaardig-heden in je (PO) lessen  
+*Josien Boetje*
 :::
 
 :::{card}
-:link: inf/cisco
-Skills for all (Cisco): Cybersecurity en Netwerken
+:link: inf/copilot-in-de-praktijk
+Copilot in de professio-nele software-praktijk
 :::
 
 :::{card}
 :link: pc/werkgroep-physical-computing
 Werkgroep Physical computing
+:::
+
+:::{card}
+:link: inf/cisco
+Skills for all (Cisco):  
+Cyber-security en  
+Netwerken
 :::
 ::::
 

@@ -11,7 +11,7 @@ site:
   template: book-theme
   title: "i&i conferentie 2023"
   logo: assets/ieni-logo-115.png
-  logoText: "conferentie 2023"
+  logo_text: "conferentie 2023"
   nav: []
 #    - title: forum
 #      url: https://forum.ieni.org
