@@ -67,6 +67,9 @@ Computa-tional Thinking in je vak
 :::{card}
 Pilot open leer-materialen  
 [O&O projecten](inf/pilot-oeno-inf)  
+
+---
+
 [INF keuze-thema's](inf/keuzethemas)
 :::
 
@@ -103,20 +106,19 @@ Slim zoeken
 :::
 
 :::{card}
-:link: inf/heleen-1
-Program-meren en Design in informatica
-*Heleen Kamphuis*
-:::
-
-:::{card}
-[Microbloks](pc/microblocks) - *Peter Matthijsen*  
-[Program-meren in het PO ](pc/po-programmeren) - *Gerard Dummer*
-:::
-
-:::{card}
 :link: inf/app-maken-met-code-org
 Apps maken met code.org
 *Pieter Vorsten-bosch*
+:::
+
+:::{card}
+:link: pc/microblocks
+Microblocks  
+*Peter Matthijsen*  
+:::
+
+:::{card}
+[Program-meren in het PO ](pc/po-programmeren) - *Gerard Dummer*
 :::
 ::::
 
@@ -128,24 +130,32 @@ ChatGPT voor docenten
 
 :::{card}
 :link: dg/informatievaardigheden
-Informatie-vaardig-heden in je (PO) lessen  
+Informatie-vaardig-heden in je (PO/VO) lessen  
 *Josien Boetje*
 :::
 
 :::{card}
-:link: inf/copilot-in-de-praktijk
-Copilot in de professio-nele software-praktijk
+[Program-meren en Design in informatica](inf/heleen-1)
+*Heleen Kamphuis*
+
+---
+
+[Copilot in de professio-nele software-praktijk](inf/copilot-in-de-praktijk)
 :::
 
 :::{card}
 :link: pc/werkgroep-physical-computing
 Werkgroep Physical computing
+(markt)
 :::
 
 :::{card}
 :link: inf/cisco
 Skills for all (Cisco):  
 Cyber-security en  
+
+---
+
 Netwerken
 :::
 ::::
