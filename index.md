@@ -54,12 +54,14 @@ Binnenkort hier meer.
 ::::{grid} 1 1 2 5
 :::{card}
 :link: ai/leren-programmeren-met-ai
+
 LLMs in het program-meeronder-wijs  
 *Johan Jeuring*
 :::
 
 :::{card}
 :link: dg/ct-in-je-vak
+
 Computa-tional Thinking in je vak  
 *Jacqueline Nijenhuis-Voogt*
 :::
