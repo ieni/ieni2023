@@ -76,9 +76,13 @@ Pilot open leer-materialen
 :::
 
 :::{card}
-:link: pc/borduren
-TurtleStitch: wiskunde op een creatieve manier  
+[TurtleStitch](pc/borduren)  
 *Pauline Maas*
+
+---
+
+[Program-meren in het PO ](pc/po-programmeren) *Gerard Dummer*
+
 :::
 
 :::{card}
@@ -152,9 +156,6 @@ Informatie-vaardig-heden in je (PO/VO) lessen
 :::
 
 :::{card}
-[Program-meren in het PO ](pc/po-programmeren) *Gerard Dummer*
-
----
 
 [Pluk de data in je vak](dg/pluk-de-data) *Jasper Dukers e.a.*
 :::
