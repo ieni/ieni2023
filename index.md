@@ -1,8 +1,8 @@
 # i&i conferentie - 9 november 2023
 
 Op 9 november organiseert i&i de najaarsconferentie Informatica en Digitale
-geletterdheid. Een belangrijk thema van deze conferentie is het gebruik van AI
-in het onderwijs, in het bijzonder ChatGPT en andere LLM systemen. Er zijn
+geletterdheid. Een belangrijk thema van deze conferentie is het gebruik van **AI
+in het onderwijs, in het bijzonder ChatGPT en andere LLM systemen**. Er zijn
 hands-on workshops over ChatGPT voor docenten, en sessies over leren
 programmeren met ChatGPT/Copilot en het gebruik van Copilot bij professionele
 software-ontwikkeling. Daarnaast is er de nodige aandacht voor Informatica en
@@ -69,18 +69,28 @@ Computa-tional Thinking in je vak
 :::{card}
 Pilot open leer-materialen  
 [O&O projecten](inf/pilot-oeno-inf)  
+
+---
+
 [INF keuze-thema's](inf/keuzethemas)
 :::
 
 :::{card}
-:link: pc/borduren
-TurtleStitch: wiskunde op een creatieve manier  
+[TurtleStitch](pc/borduren)  
 *Pauline Maas*
+
+---
+
+[Program-meren in het PO ](pc/po-programmeren) *Gerard Dummer*
+
 :::
 
 :::{card}
-:link: inf/bit-academy
-Bit-Academy
+[Bit-Academy](inf/bit-academy)
+
+---
+
+(reserve)
 :::
 ::::
 
@@ -105,21 +115,23 @@ Slim zoeken
 :::
 
 :::{card}
-:link: inf/heleen-1
-Program-meren en Design in informatica
-*Heleen Kamphuis*
-:::
-
-:::{card}
-[Microbloks](pc/microblocks) - *Peter Matthijsen*  
-[Program-meren in het PO ](pc/po-programmeren) - *Gerard Dummer*
-:::
-
-:::{card}
 :link: inf/app-maken-met-code-org
 Apps maken met code.org
 *Pieter Vorsten-bosch*
 :::
+
+:::{card}
+:link: pc/werkgroep-physical-computing
+Werkgroep Physical computing
+(markt)
+:::
+
+:::{card}
+:link: pc/microblocks
+Microblocks  
+*Peter Matthijsen*  
+:::
+
 ::::
 
 ::::{grid} 1 1 2 5
@@ -130,24 +142,32 @@ ChatGPT voor docenten
 
 :::{card}
 :link: dg/informatievaardigheden
-Informatie-vaardig-heden in je (PO) lessen  
+Informatie-vaardig-heden in je (PO/VO) lessen  
 *Josien Boetje*
 :::
 
 :::{card}
-:link: inf/copilot-in-de-praktijk
-Copilot in de professio-nele software-praktijk
+[Program-meren en Design in informatica](inf/heleen-1)
+*Heleen Kamphuis*
+
+---
+
+[Copilot in de professio-nele software-praktijk](inf/copilot-in-de-praktijk)
 :::
 
 :::{card}
-:link: pc/werkgroep-physical-computing
-Werkgroep Physical computing
+
+[Pluk de data in je vak](dg/pluk-de-data) *Jasper Dukers e.a.*
 :::
+
 
 :::{card}
 :link: inf/cisco
 Skills for all (Cisco):  
 Cyber-security en  
+
+---
+
 Netwerken
 :::
 ::::

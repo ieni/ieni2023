@@ -10,6 +10,8 @@ parts:
       - file: dg/ct-in-je-vak
       - file: dg/slimzoeken
       - file: dg/informatievaardigheden
+      - file: dg/pluk-de-data
+      - file: pc/po-programmeren
   - caption: Informatica
     chapters:
       - file: inf/pilot-oeno-inf
