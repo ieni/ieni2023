@@ -1,9 +1,11 @@
 # i&i conferentie - 9 november 2023
 
-Op 9 november organiseert i&i de najaarsconferentie Informatica en Digitale
+## *ChatGPT in je onderwijs*
+
+Op 9 november organiseert i&i de najaarsconferentie voor docenten Informatica en Digitale
 geletterdheid. Een belangrijk thema van deze conferentie is het gebruik van **AI
 in het onderwijs, in het bijzonder ChatGPT en andere LLM systemen**. Er zijn
-hands-on workshops over ChatGPT voor docenten, en sessies over leren
+hands-on workshops over ChatGPT voor docenten (van alle vakken!), en sessies over leren
 programmeren met ChatGPT/Copilot en het gebruik van Copilot bij professionele
 software-ontwikkeling. Daarnaast is er de nodige aandacht voor Informatica en
 Digitale geletterdheid.
@@ -12,7 +14,7 @@ Digitale geletterdheid.
   Universiteit Utrecht  
 * **datum en tijd**: 9 november 2023, 9:00 - 17:30 uur
 * [**aanmeldformulier**](https://www.smink-registratie.nl/ieni/) - 
-  neem een collega mee als gast, zonder extra kosten
+  *neem een collega mee als gast, zonder extra kosten!*
 
 :::{admonition} binnenkort meer!
 Er wordt nog hard gewerkt aan het programma: 
