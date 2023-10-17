@@ -7,8 +7,8 @@ geletterdheid. Een belangrijk thema van deze conferentie is het gebruik van **AI
 in het onderwijs, in het bijzonder ChatGPT en andere LLM systemen**. Er zijn
 hands-on workshops over ChatGPT voor docenten (van alle vakken!), en sessies over leren
 programmeren met ChatGPT/Copilot en het gebruik van Copilot bij professionele
-software-ontwikkeling. Daarnaast is er de nodige aandacht voor Informatica en
-Digitale geletterdheid.
+software-ontwikkeling. Daarnaast is er natuurlijk aandacht voor andere Informatica en
+Digitale geletterdheid-onderwerpen.
 
 * **locatie**: [Victor J. Koningsbergergebouw](https://www.uu.nl/victor-j-koningsbergergebouw),
   Universiteit Utrecht  
