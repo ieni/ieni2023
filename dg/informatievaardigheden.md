@@ -24,3 +24,15 @@ speel een spannend spel van informatie-bingo met diverse strategieën.
 * **Nabespreking**: Reflecteer op hoe je de geleerde ideeën kunt toepassen 
 in je eigen vakgebied.
 
+**Josien Boetje** is een toegewijde docente, onderwijskundige en onderzoeker aan
+de Hogeschool Utrecht. Momenteel doet zij promotieonderzoek naar de
+didactiek van Digitale Geletterdheid, met digitale informatievaardigheden in
+het bijzonder. Ze blogt ook over dit onderwerp op www.josienboetje.com/blog.
+Daarnaast geeft ze les in de minor ‘Digitale Geletterdheid en Educatieve
+Games’ bij Instituut Archimedes, de tweedegraads lerarenopleiding van de HU.
+Ook is ze actief binnen het project Digitale Geletterdheid, waarin ze samen
+met haar collega’s de lerarenopleiding klaar wil stomen voor het curriculum
+van de toekomst. Dit doet ze onder andere door haar bijdrage aan de podcast
+[DigiSnacks](https://open.spotify.com/show/0oa6OMYAXyLiDn25NnUDTw),
+waar Josien in korte bites van 15 minuten de luisteraar meeneemt
+in praktische manieren om Digitale Geletterdheid te integreren in de vakles.

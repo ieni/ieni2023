@@ -17,7 +17,10 @@ In deze workshop ga je experimenteren met verschillende soorten prompts.
 De nadruk daarbij ligt op het gebruik van ChatGPT om je docent-taken te verlichten,
 en om je leerlingen te helpen. 
 
+**Voor een voorproefje, kijk eens op het 
+[i&i forum](https://forum.ieni.org/c/ai-voor-onderwijs/25)**
 
-
-**Workshop, met een beperkt aantal deelnemers (maximaal 35).
-Deze workshop wordt tweemaal gegeven.**
+:::{admonition} Let op!
+Workshop, met een beperkt aantal deelnemers (maximaal 35).
+Deze workshop wordt **tweemaal gegeven**.
+:::
