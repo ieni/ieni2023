@@ -1,18 +1,14 @@
-# Microblocks: physical computing met *Snap!*
+# MicroBlocks
+
+*Bestuur je microcontroller, sensoren en actuatoren met MicroBlocks*
 
 **Peter Mathijssen**
 
-*Snap!* is een "volwassen blokjestaal", waarmee je meer dan alleen eenvoudige
-programma's kunt maken, ontwikkeld voor studenten aan de Universiteit van
-Berkeley, maar ook goed te gebruiken voor PO- en VO-leerlingen.
-
-Met *microblocks* kun je *Snap!*-programma's later werken op microbits en andere
-physical computing-systemen.
-
-:::{figure} figs/oledprojpic.png
+:::{figure} figs/microblocks.png
 :width: 600
 :align: center
-Zie: https://wiki.microblocks.fun/en/snap
+
+MicroBlocks voor physical computing
 :::
 
 MicroBlocks is een live-omgeving. Klik op een blok en het wordt meteen
