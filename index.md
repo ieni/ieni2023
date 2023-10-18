@@ -123,15 +123,14 @@ Apps maken met code.org
 :::
 
 :::{card}
-:link: pc/werkgroep-physical-computing
-Werkgroep Physical computing
-(markt)
-:::
-
-:::{card}
 :link: pc/microblocks
 Microblocks  
 *Peter Matthijsen*  
+:::
+
+:::{card}
+
+[Pluk de data in je vak](dg/pluk-de-data) *Jasper Dukers e.a.*
 :::
 
 ::::
@@ -157,9 +156,12 @@ Informatie-vaardig-heden in je (PO/VO) lessen
 [Copilot in de professio-nele software-praktijk](inf/copilot-in-de-praktijk)
 :::
 
-:::{card}
 
-[Pluk de data in je vak](dg/pluk-de-data) *Jasper Dukers e.a.*
+
+:::{card}
+:link: pc/werkgroep-physical-computing
+Werkgroep Physical computing
+(markt)
 :::
 
 
