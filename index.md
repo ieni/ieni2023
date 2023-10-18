@@ -130,7 +130,9 @@ Microblocks
 
 :::{card}
 
-[Pluk de data in je vak](dg/pluk-de-data) *Jasper Dukers e.a.*
+![dg](assets/dg-label-50.png) [Pluk de data in je vak](dg/pluk-de-data) *Jasper Dukers e.a.*
+
+
 :::
 
 ::::
