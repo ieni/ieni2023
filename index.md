@@ -88,7 +88,7 @@ Pilot open leer-materialen
 :::
 
 :::{card}
-[Bit-Academy](inf/bit-academy)
+[Leren factchecken met Bit-Academy](inf/bit-academy)
 
 ---
 
