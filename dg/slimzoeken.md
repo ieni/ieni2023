@@ -11,7 +11,7 @@
 center 
 ```
 
-**Zelf sturen of gestuurd worden?***
+**Zelf sturen of gestuurd worden?**
 
 Hoe leer je om de beste resultaten bij het zoeken ook echt bovenaan te krijgen
 in een zoekmachine. Het is zonde van de tijd om klakkeloos op een eerste
