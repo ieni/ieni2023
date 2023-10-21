@@ -26,8 +26,8 @@ center
 
 Neem de tijd zoekmachines te leren gebruiken. Dat gaat allereerst over een
 algemene oriëntatie op het web (wat kun je verwachten?). Daarna komt het
-uitbreiden van je woordenschat tijdens het zoeken (dat doe je tijdens het
-zoeken) en het bepalen van wat bruikbare resultaten zijn (zoek naar de makers
+uitbreiden van je woordenschat tijdens het zoeken
+en het bepalen van wat bruikbare resultaten zijn (zoek naar de makers
 en het doel van een bron). Het gaat ook over nadenken welk soort zoekopdracht
 je op een bepaald moment uitvoert (want er zijn grote verschillen!) Tijd
 winnen door even de tijd te nemen.
