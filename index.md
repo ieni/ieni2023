@@ -88,11 +88,13 @@ Pilot open leer-materialen
 :::
 
 :::{card}
-[Leren factchecken met Bit-Academy](inf/bit-academy)
+
+[Mediawijs-heid in tijden van oorlog (op sociale media)](dg/mediawijsheid-oorlog)
 
 ---
 
-(reserve)
+[Leren factchecken met Bit-Academy](inf/bit-academy)
+
 :::
 ::::
 

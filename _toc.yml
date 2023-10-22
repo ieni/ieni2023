@@ -8,7 +8,9 @@ parts:
   - caption: Digitale geletterdheid
     chapters:
       - file: dg/ct-in-je-vak
-      - file: dg/slimzoeken
+      - file: dg/mediawijsheid-oorlog
+      - file: inf/bit-academy 
+      - file: dg/slimzoeken           
       - file: dg/informatievaardigheden
       - file: dg/pluk-de-data
       - file: pc/po-programmeren
@@ -25,6 +27,6 @@ parts:
       - file: pc/werkgroep-physical-computing
   - caption: Informatica en DG 
     chapters:
-    - file: inf/bit-academy
+
     - file: inf/app-maken-met-code-org
     - file: inf/cisco
