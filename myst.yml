@@ -16,8 +16,9 @@ site:
 #    - title: forum
 #      url: https://forum.ieni.org
   actions:
+    - title: i&i forum
+      url: https://forum.ieni.org/c/ai-voor-onderwijs/25 
     - title: i&i home
       url: https://ieni.org
-#    - title: forum
-#      url: https://forum.ieni.org      
+    
   domains: []

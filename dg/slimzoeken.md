@@ -17,7 +17,7 @@ Hoe leer je om de beste resultaten bij het zoeken ook echt bovenaan te krijgen
 in een zoekmachine. Het is zonde van de tijd om klakkeloos op een eerste
 resultaat te klikken, maar hoe breng je dat over op je leerlingen?
 
-```{image} ../assets/zoekenofzoekroutine.png 
+```{image} ../assets/zoekenofzoekroutine.jpg
 :alt: Zoeken-of-zoekroutine 
 :width: 400px 
 :align:
