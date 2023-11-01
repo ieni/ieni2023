@@ -16,11 +16,19 @@ Digitale geletterdheid-onderwerpen.
 * [**aanmeldformulier**](https://www.smink-registratie.nl/ieni/) - 
   *neem een collega mee als gast, zonder extra kosten!*
 
-:::{admonition} binnenkort meer!
-Er wordt nog hard gewerkt aan het programma: 
-het onderstaande programma is voorlopig, en kan nog gewijzigd worden.
-Binnenkort hier meer. 
+## Programma
+
+[zie programma in detail](#detail-programma)
+
+**wijzigingen voorbehouden**
+
+:::{image} assets/ieni-november-2023-programma-v0.png
+:align: center
+:width: 700
 :::
+
+(detail-programma)=
+### Programma in detail
 
 ::::{grid} 1 1 1 1
 
