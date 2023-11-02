@@ -10,4 +10,8 @@ gemaakt van de Amerikaanse site [code.org](http://code.org/) waarbij de
 leerlingen codeblokken gebruiken en uiteindelijk JavaScript.
 
 Tijdens de workshop ga je zelf een app maken en ervaar je de eenvoud en
-het leuke van programmeren. Neem je computer en je telefoon mee dus.
+het leuke van programmeren. 
+
+:::{admonition} Voorbereiding
+Neem je computer en je telefoon mee, voor het maken van je eigen app.
+:::
