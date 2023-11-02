@@ -17,7 +17,8 @@ Digitale geletterdheid-onderwerpen.
   
 :::{admonition} Voorbereiding
 * neem je laptop mee
-* maak een [ChatGPT account](https://chat.openai.com/) aan 
+* maak een [ChatGPT account](https://chat.openai.com/) aan
+* sommige sessies vragen nog een extra voorbereiding
 :::
 
 ## Programma
@@ -39,9 +40,7 @@ Digitale geletterdheid-onderwerpen.
 :::{card} Keynote
 :link: ai/keynote
 
-AI: van onderzoek naar klaslokaal
-
-Serge Thill, Wouter Jansen (NOLAI)
+**AI: van onderzoek naar klaslokaal - Serge Thill, Wouter Jansen (NOLAI)**
 :::
 
 ::::
