@@ -5,9 +5,8 @@
 Op 9 november organiseert i&i de najaarsconferentie voor docenten Informatica en Digitale
 geletterdheid. Een belangrijk thema van deze conferentie is het gebruik van **AI
 in het onderwijs, in het bijzonder ChatGPT en andere LLM systemen**. Er zijn
-hands-on workshops over ChatGPT voor docenten (van alle vakken!), en sessies over leren
-programmeren met ChatGPT/Copilot en het gebruik van Copilot bij professionele
-software-ontwikkeling. Daarnaast is er natuurlijk aandacht voor andere Informatica en
+hands-on workshops over ChatGPT voor docenten (van alle vakken!) en over leren
+programmeren met ChatGPT/Copilot. Daarnaast is er natuurlijk aandacht voor andere Informatica en
 Digitale geletterdheid-onderwerpen.
 
 * **locatie**: [Victor J. Koningsbergergebouw](https://www.uu.nl/victor-j-koningsbergergebouw),
@@ -15,6 +14,12 @@ Digitale geletterdheid-onderwerpen.
 * **datum en tijd**: 9 november 2023, 9:00 - 17:30 uur
 * [**aanmeldformulier**](https://www.smink-registratie.nl/ieni/) - 
   *neem een collega mee als gast, zonder extra kosten!*
+  
+:::{admonition} Voorbereiding
+* neem je laptop mee
+* maak een [ChatGPT account](https://chat.openai.com/) aan
+* sommige sessies vragen nog een extra voorbereiding
+:::
 
 ## Programma
 
@@ -22,7 +27,7 @@ Digitale geletterdheid-onderwerpen.
 
 **wijzigingen voorbehouden**
 
-:::{image} assets/ieni-november-2023-programma-v0.png
+:::{image} assets/ieni-november-2023-programma-v1.png
 :align: center
 :width: 700
 :::
@@ -33,7 +38,9 @@ Digitale geletterdheid-onderwerpen.
 ::::{grid} 1 1 1 1
 
 :::{card} Keynote
-(we houden de spanning er nog even in...)
+:link: ai/keynote
+
+**AI: van onderzoek naar klaslokaal - Serge Thill, Wouter Jansen (NOLAI)**
 :::
 
 ::::
@@ -139,12 +146,13 @@ Microblocks
 :::
 
 :::{card}
+:link: inf/cisco
+Skills for all (Cisco):  
+Cyber-security en  
 
-![dg](assets/dg-label-50.png) [Pluk de data in je vak](dg/pluk-de-data) *Jasper Dukers e.a.*
+---
 
-[User experience en game design](inf/games-ux) *Roderik Egberink*
-
-
+Netwerken
 :::
 
 ::::
@@ -167,7 +175,7 @@ Informatie-vaardig-heden in je (PO/VO) lessen
 
 ---
 
-[Copilot in de professio-nele software-praktijk](inf/copilot-in-de-praktijk)
+[User experience en game design](inf/games-ux) *Roderik Egberink*
 :::
 
 
@@ -178,17 +186,20 @@ Werkgroep Physical computing
 (markt)
 :::
 
-
 :::{card}
-:link: inf/cisco
-Skills for all (Cisco):  
-Cyber-security en  
+
+![dg](assets/dg-label-50.png) [Pluk de data in je vak](dg/pluk-de-data) *Jasper Dukers e.a.*
 
 ---
 
-Netwerken
+(gereser-veerd)
+
 :::
+
+
 ::::
+
+
 
 ::::{grid} 1 1 1 1
 

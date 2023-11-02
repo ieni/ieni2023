@@ -3,6 +3,7 @@ root: index
 parts:
   - caption: AI/ChatGPT
     chapters:
+      - file: ai/keynote
       - file: ai/leren-programmeren-met-ai
       - file: ai/chatgpt-voor-docenten
   - caption: Digitale geletterdheid
