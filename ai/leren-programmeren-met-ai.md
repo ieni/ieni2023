@@ -15,3 +15,11 @@ bod laten komen:
 * Op welke manier zetten de aanwezigen LLMs al in in het programmeeronderwijs,
 en wat zijn daarbij de mogelijkheden en uitdagingen?
 
+:::{admonition} Voorbereiding
+Je gaat praktisch aan de slag met een LLM voor programmeren, 
+dus zorg ervoor dat je tenminste één van onderstaande accounts aangemaakt hebt:
+
+* ChatGPT
+* Visual Studio Code + Copilot
+* of een andere LLM die ondersteuning biedt voor programmeren
+:::
