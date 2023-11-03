@@ -27,7 +27,7 @@ Digitale geletterdheid-onderwerpen.
 
 **wijzigingen voorbehouden**
 
-:::{image} assets/ieni-november-2023-programma-v1.png
+:::{image} assets/ieni-november-2023-programma-v2.png
 :align: center
 :width: 700
 :::
@@ -192,7 +192,7 @@ Werkgroep Physical computing
 
 ---
 
-(gereser-veerd)
+[Fundament Informatica - Instruct](inf/instruct) *Adriaan Gijssen e.a.*
 
 :::
 
