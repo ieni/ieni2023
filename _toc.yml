@@ -22,13 +22,11 @@ parts:
       - file: inf/heleen-1
       - file: inf/copilot-in-de-praktijk
       - file: inf/games-ux
+      - file: inf/app-maken-met-code-org
+      - file: inf/cisco
+      - file: inf/instruct            
   - caption: Physical computing
     chapters:
       - file: pc/borduren
       - file: pc/microblocks
       - file: pc/werkgroep-physical-computing
-  - caption: Informatica en DG 
-    chapters:
-
-    - file: inf/app-maken-met-code-org
-    - file: inf/cisco
