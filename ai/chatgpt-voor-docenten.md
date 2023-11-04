@@ -20,6 +20,14 @@ en om je leerlingen te helpen.
 **Voor een voorproefje, kijk eens op het 
 [i&i forum](https://forum.ieni.org/c/ai-voor-onderwijs/25)**
 
+:::{tip}
+Als voorbereiding voor de workshop kun je de video's van Ethan Mollick en Lilach Mollick bekijken, 
+"AI for Teachers and Students" - 5 korte video's, samen ongeveer 1 uur:
+
+* https://www.youtube.com/playlist?list=PLwRdpYzPkkn302_rL5RrXvQE8j0jLP02j
+
+:::
+
 :::{admonition} Let op!
 Workshop, met een beperkt aantal deelnemers (maximaal 35).
 Deze workshop wordt **tweemaal gegeven**.
