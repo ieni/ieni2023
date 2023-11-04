@@ -2,7 +2,7 @@
 
 *Pluk de Data! - Computational Thinking in je vak*
 
-**Dorrith Pennink, Sharon Calor, Jasper Dukers**
+**Anders Bouwer, Marjolein van Dekken, Jasper Dukers**
 
 Docenten en lerarenopleiders constateren dat het benutten van
 data een steeds prominentere rol speelt in hun vakgebieden en de maatschappij
@@ -23,5 +23,4 @@ context van bestaande schoolvakken in het voortgezet onderwijs. Tijdens deze
 sessie presenteren lerarenopleiders de lessen die zij in dat kader
 ontwikkelen.
 
-**Dorrith Pennink, Sharon Calor en Jasper Dukers** leiden leraren op in natuurkunde,
-wiskunde en informatica aan de HvA, VU en UvA.
+**Anders Bouwer, Marjolein van Dekken,  en Jasper Dukers** leiden leraren op aan de HvA en UvA.
