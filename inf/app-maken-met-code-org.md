@@ -13,5 +13,7 @@ Tijdens de workshop ga je zelf een app maken en ervaar je de eenvoud en
 het leuke van programmeren. 
 
 :::{admonition} Voorbereiding
-Neem je computer en je telefoon mee, voor het maken van je eigen app.
+
+* maak een account aan bij https://code.org (via Aanmelden, rechts boven);
+* neem je computer en je telefoon mee, voor het maken van je eigen app.
 :::
