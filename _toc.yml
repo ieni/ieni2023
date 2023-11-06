@@ -30,3 +30,7 @@ parts:
       - file: pc/borduren
       - file: pc/microblocks
       - file: pc/werkgroep-physical-computing
+  - caption: Bestanden
+    chapters:
+      - file: ai/prompts
+
