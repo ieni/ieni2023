@@ -27,7 +27,8 @@ Digitale geletterdheid-onderwerpen.
 
 :::{admonition} Let op!
 :warning:
-De laatste sessies in de laatste kolom vinden in het Auditorium plaats.
+De laatste sessies in de laatste kolom vinden in het Auditorium plaats.  
+BBG = Buys Ballotgebouw; M = Minnaertgebouw
 
 (wijzigingen voorbehouden)
 :::
