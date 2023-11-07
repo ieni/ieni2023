@@ -27,7 +27,7 @@ Digitale geletterdheid-onderwerpen.
 
 **wijzigingen voorbehouden**
 
-:::{image} assets/ieni-november-2023-programma-v2.png
+:::{image} assets/ieni-november-2023-programma-v3.png
 :align: center
 :width: 700
 :::
@@ -181,9 +181,14 @@ Informatie-vaardig-heden in je (PO/VO) lessen
 
 
 :::{card}
-:link: pc/werkgroep-physical-computing
-Werkgroep Physical computing
-(markt)
+[Markt Physical computing](pc/werkgroep-physical-computing)
+
+*div. docenten*
+
+---
+
+[CoPilot in de professio-nele praktijk](inf/copilot-in-de-praktijk) *Martin Dinov*
+
 :::
 
 :::{card}
