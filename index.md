@@ -25,7 +25,12 @@ Digitale geletterdheid-onderwerpen.
 
 [zie programma in detail](#detail-programma)
 
-**wijzigingen voorbehouden**
+:::{admonition} Let op!
+:warning:
+De laatste sessies in de laatste kolom vinden in het Auditorium plaats.
+
+(wijzigingen voorbehouden)
+:::
 
 :::{image} assets/ieni-november-2023-programma-v3.png
 :align: center
