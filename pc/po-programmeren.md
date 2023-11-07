@@ -1,6 +1,6 @@
 # Programmeren in het PO 
 
-*Integratie van programmeren in de bovenbouw van de basisschool**
+*Integratie van programmeren in de bovenbouw van de basisschool*
 
 **Gerard Dummer, Hogeschool Utrecht**
 
