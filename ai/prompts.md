@@ -1,7 +1,8 @@
 # Gestructureerde prompts
 
 De onderstaande voorbeelden zijn ontleend aan Mollick & Mollick; zie
-https://github.com/microsoft/prompts-for-edu/tree/main.
+https://github.com/microsoft/prompts-for-edu/tree/main. 
+Deze zijn beschikbaar onder de MIT licentie.
 
 ## Docent-prompts
 
