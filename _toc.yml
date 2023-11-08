@@ -33,4 +33,6 @@ parts:
   - caption: Bestanden
     chapters:
       - file: ai/prompts
+      - file: ai/ieni-volgens-chatgpt
+      - file: ai/chatgtp-workshop
 
