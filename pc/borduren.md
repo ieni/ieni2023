@@ -2,6 +2,8 @@
 
 **Pauline Maas** https://4pip.nl
 
+Zie de [presentatie](../assets/turtlestitch.pdf)
+
 :::{image} figs/turtle3.png 
 :width: 400
 :align: center
