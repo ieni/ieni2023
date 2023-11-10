@@ -2,6 +2,11 @@
 
 **Pieter Vorstenbosch, Informatica Actief**
 
+* [de presentatie](../assets/ia-workshop-presentatie-9nov23.pdf)
+* [de workshop](../assets/ia-workshop-apps-maken-9nov23.docx)
+
+De logins 01-10 blijven nog een paar maanden actief. 
+
 Workshop Apps maken met [Code.org](http://code.org/)
 
 Informatica-Actief heeft sinds dit voorjaar een cursus programmeren waarmee
