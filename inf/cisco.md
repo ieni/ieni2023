@@ -1,8 +1,12 @@
 # Skills for all (Cisco)
 
+(Er zijn twee sessies, elk met een eigen presentatie.)
+
 ## Introductie Cybersecurity in het Nederlands
 
 *Rianne Jaspers, Cisco CSR Program Manager*
+
+Zie de [presentatie](../assets/cisco-skills-for-all_cursus-intro-cyber.pdf)
 
 Maak kennis met skillsforall.com, Cisco's nieuwste leerplatform voor het
 onderwijs. Tijdens deze workshop gaan we dieper in op de Nederlandstalige
