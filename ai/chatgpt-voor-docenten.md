@@ -1,5 +1,9 @@
 # ChatGPT voor docenten
 
+**Ramon Moorlag, Yuri Tax, Eelco Dijkstra**
+
+Zie de [presentatie](../assets/chatten-met-docenten.pdf)
+
 ChatGPT komt zonder handleiding. Het interface is erg eenvoudig: je kunt in
 natuurlijke taal, Engels of Nederlands, een vraag stellen, en je krijgt een
 antwoord in diezelfde taal. Dat is alles. Maar daarmee weet je nog niet wat de

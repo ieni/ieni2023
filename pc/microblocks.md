@@ -4,6 +4,8 @@
 
 **Peter Mathijssen**
 
+Zie de [presentatie](../assets/show-and-tell-microblocks-2023.pdf)
+
 :::{figure} figs/microblocks.png
 :width: 600
 :align: center
