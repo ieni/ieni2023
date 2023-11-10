@@ -25,6 +25,8 @@ voortgezet onderwijs.
 
 *Willem-Jan Derks, Cisco CSR Manager Netherlands*
 
+Zie de [presentatie](../assets/cisco-skillsf-or-alI-ieni-docentendag2023.pdf)
+
 De Cisco Networking Academy biedt een scala aan lesmaterialen voor diverse
 domeinen uit het examenprogramma (C - Informatie, D- Programmeren, L -
 Netwerken, S - Security, M - Physical Computing)
