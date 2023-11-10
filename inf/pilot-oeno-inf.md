@@ -2,6 +2,8 @@
 
 **Mieke van den Berg (Technasium), Job Burema (docent Het Streek)**
 
+Zie de [presentatie](../assets/project-open-leermateriaal-technasium.pdf)
+
 Wil je meer weten over het toepassen van Open Leermaterialen over Informatica
 Keuzethema’s in vakoverstijgend projectonderwijs? Sluit dan aan bij de sessie
 Pilot Open leermiddelen O&O projecten. In deze sessie deelt Informatica docent
