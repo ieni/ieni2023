@@ -192,10 +192,6 @@ Informatie-vaardig-heden in je (PO/VO) lessen
 
 *div. docenten*
 
----
-
-[CoPilot in de professio-nele praktijk](inf/copilot-in-de-praktijk) *Martin Dinov*
-
 :::
 
 :::{card}
