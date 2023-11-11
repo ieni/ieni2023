@@ -2,6 +2,8 @@
 
 *drs. Roderik Egberink, Montessori Lyceum Gooise Meren*
 
+Zie de [presentatie](../assets/user-experience-games.pdf)
+
 De eerste les informatica in de vierde klas en je vraagt aan de leerlingen
 waarom ze voor het vak gekozen hebben. Naast het feit dat het geen centraal
 eindexamen kent of dat ze ‘computers wel interessant vinden’, wordt de
