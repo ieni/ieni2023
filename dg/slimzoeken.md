@@ -45,10 +45,8 @@ Samen bespreken wat vertrouwde bronnen kunnen
 zijn wordt steeds belangrijker nu het web overspoeld wordt met gestolen en
 gegenereerde informatie van onduidelijke herkomst.
 
-En wie weet komt ook nog aan de orde waarom chatten met een zoekmachine geen
-goed plan is. (je gaat toch zeker niet zoeken met een taalmodel… ) Toch zijn
-er wel een paar momenten dat je de beïnvloedbare ChatGPT misschien met succes
-zou kunnen gebruiken tijdens het zoeken.
+Ook bespreken we ervaringen rond chatten met een zoekmachine gerelateerd aan informatief zoeken. 
+Welke voordelen en valkuilen zijn er? 
 
 :::{admonition} Workshop - voorbereiding welkom
 Maximaal 25 deelnemers. Ter voorbereiding zijn specifieke zoekopdrachten van
