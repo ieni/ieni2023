@@ -16,19 +16,211 @@ Indeling:
 
 | *duur (min)* | *onderdeel* | *wie* |
 | :---   | :---        | :---- |
-| 10     | Presentatie: ChatGPT: wat, waarom, hoe?   | |
+| 10     | Presentatie: ChatGPT: wat, waarom, hoe?   | inleider(s)|
 | 20     | Zelf (experimenteel) aan de slag (1)      | deelnemers |
-| 10     | Presentatie: Beperkingen, ethisch gebruik | |
-| 10     | vragen, gesprek hierover                  | |
-| 10     | Presentatie: ChatGPT voor onderwijs       | |
+| 10     | Presentatie: Beperkingen, ethisch gebruik | inleider(s)|
+| 10     | vragen, gesprek hierover                  | inleider(s)|
+| 10     | Presentatie: ChatGPT voor onderwijs       | inleider(s)|
 | 20     | Zelf (gestructureerd) aan de slag (2)     | deelnemers |
-| 10     | Afronding, volgende stappen               | |
+| 10     | Afronding, volgende stappen               | inleider(s)|
 
 
 De onderdelen "Zelf aan de slag" bestaan uit een korte instructie, 
 waarna de deelnemers ca. 15 minuten aan de slag gaan.
 Aan het eind van zo'n onderdeel kun je 5 minuten vragen naar de ervaringen,
 zowel positieve als negatieve.
+
+## ChatGPT: wat, waarom, hoe?
+
+### ChatGPT is een LLM
+
+ChatGPT is een zogenaamd *Large Language Model* (LLM): 
+een zeer groot speciaal neuraal netwerk
+dat getraind wordt met een enorme hoeveelheid data.
+ChatGPT3.5 bevat 175 miljard parameters, onder meer in de vorm van de gewichten in
+het neurale netwerk.
+ChatGPT3.5 is getraind op zeer veel data: 300 miljard woorden.
+Een normaal leesboek bevat zo'n 250-300 woorden per pagina: dat komt dus neer op
+zo'n miljard pagina's, ofwel enkele miljoenen boeken.
+Veel van deze tekst is afkomstig van het web: denk aan Wikipedia, 
+en heel veel andere websites.
+ChatGPT4 (en later) is ongeveer een orde (factor 10) groter, maar daarvan zijn veel
+minder gegevens bekend.
+
+Al deze data wordt gebruikt voor met maken van een groot *statistisch taalmodel*, 
+dat steeds een plausibel volgend woord kiest bij de tekst die tot nu toe ingevoerd en
+gegenereerd is. Je kunt dit zien als "autocompletion on steroids"
+
+De ChatGPT-aanpak kun je zien als een *brute force* aanpak: het probleem wordt
+met zeer veel rekengeweld en zeer veel data aangepakt.
+Dit blijkt wel goed te werken - maar misschien kan het ook slimmer?
+De komende jaren zullen we het zien: er wordt ook zeer veel onderzoek naar gedaan.
+
+### ...en wat is het niet?
+
+ChatGPT is een *taalmodel*, geen *kennismodel*.
+Heel veel kennis is op een impliciete manier in de vorm van taal opgeslagen,
+en die kennis wordt door ChatGPT gebruikt om steeds een plausibel antwoord 
+te geven.
+Maar ChatGPT kan zelf niet nagaan of het antwoord "waar" is of niet;
+of wat de feiten zijn waar het antwoord op gebaseerd is, en de redenering.
+
+ChatGPT geeft bovendien niet steeds hetzelde antwoord bij dezelfde invoer:
+het is geen deterministisch systeem.
+
+ChatGPT is *getraind*, niet geprogrammeerd.
+Het neurale netwerk van ChatGPT is wel geprogrammeerd, 
+maar daarna is dit netwerk getraind met zeer veel data.
+Het resultaat is een statistisch model, niet een regel-gebaseerd model.
+Dit betekent bijvoorbeeld dat ChatGPT geen uitleg kan geven welke regels
+gevolgd zijn om tot een bepaald resultaat te komen.
+
+Vergelijking:
+
+* als je leert fietsen, train je je hersenen om op de fiets in evenwicht te blijven,
+met vallen en opstaan. 
+Je kunt niet uitleggen welke regels je gebruikt om overeind te blijven.
+* de verkeersregels leer je op een andere manier, en gebruik je op een andere manier.
+Je kunt steeds in een situatie uitleggen wie voorrang heeft, en op grond van 
+welke regels dat zo is.
+
+### Waarom ChatGPT?
+
+...het blijkt verbazend goed te werken...
+
+:::{figure} ../assets/chatgpt-examen-resultaten.png
+:width: 400
+
+Examenresultaten van ChatGPT
+:::
+
+Bill Gates gaf OpenAI de uitdaging om ChatGPT een Biologie-AP examen te laten maken, 
+ongeveer vergelijkbaar met onze eindexamens VWO.
+Hij koos Biologie omdat het daar niet gaaat om het puur reproduceren van feiten,
+maar je moet ook kunnen nadenken en redeneren over Biologie.
+Hij dacht dat die uitdaging ze nog wel twee of drie jaar bezig zou houden.
+Het werden een paar maanden: zie de groene resultaten van ChatGPT3.5
+Dat was voor Gates het teken dat hier van een echte doorbraak sprake was.
+
+Zoals je ziet presteert ChatGPT3.5 al heel behoorlijk voor veel vakken.
+ChatGPT4 komt nog flink verder (een half jaar later).
+
+:::{admonition} Achtergrond 
+:class: dropdown
+
+Voor inzichten van Bill Gates over OpenAI en ChatGPT, 
+zie https://www.gatesnotes.com/The-Age-of-AI-Has-Begun.
+Daar vind je ook het volgende:
+
+> The second big surprise came just last year. I’d been meeting with the team
+> from OpenAI since 2016 and was impressed by their steady progress. In
+> mid-2022, I was so excited about their work that I gave them a challenge:
+> train an artificial intelligence to pass an Advanced Placement biology exam.
+> Make it capable of answering questions that it hasn’t been specifically
+> trained for. (I picked AP Bio because the test is more than a simple
+> regurgitation of scientific facts—it asks you to think critically about
+> biology.) If you can do that, I said, then you’ll have made a true
+> breakthrough.
+>
+> I thought the challenge would keep them busy for two or three years. They
+> finished it in just a few months.
+
+(lees ook vooral de rest).
+
+:::
+
+### Ondersteuning van professionals
+
+:::{figure} ../assets/oneusefulthing-cyborgs.png
+:width: 500
+
+Resultaten van consultants zonder en met gebruik van ChatGPT4
+:::
+
+De Boston Consultancy Group heeft een wetenschappelijk experiment gedaan:
+een groep consultants werd in tweeën gesplitst, 
+waarbij de ene groep wel gebruik maakte van ChatGPT4,
+en de andere groep niet.
+Daarna moesten ze 18 taken uitvoeren die representatief zijn 
+voor hun dagelijkse consultancy-werk.
+
+Het resultaat zie je in de grafiek:
+
+* de groep die ChatGPT4 gebruikte had maar 75% van de tijd nodig 
+vergeleken met de andere groep;
+* de resultaten van deze AI-ondersteunde groep waren ca. 40% beter dan die van de
+andere groep.
+
+De resultaten van de AI-ondersteunde consultants waren allemaal beter dan hun
+normale niveau, maar dat gold het sterkst voor de gewoonlijk minder presterende
+professionals: deze gingen er zeer sterk op vooruit.
+
+Een dergelijke verbetering geen professional en geen bedrijf laten liggen.
+
+:::{admonition} Achtergrond
+:class: dropdown
+
+Het experiment met de consultants van de Boston Consultancy Group 
+wordt besproken in de blog oneusefulthing: 
+[Centaurs and Cyborgs on the jagged frontier](https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged)
+
+> There is a ton of important and useful nuance in the paper but let me tell
+> you the headline first: for 18 different tasks selected to be realistic
+> samples of the kinds of work done at an elite consulting company,
+> consultants using ChatGPT-4 outperformed those who did not, by a lot. On
+> every dimension. Every way we measured performance.
+
+Nog enkele opvallende punten:
+
+* zowel menselijke experts als ChatGPT gaven een beoordeling van de resultaten.
+Beide waren het vrijwel altijd eens;
+* de AI-ondersteunde groep is niet speciaal getraind voor het gebruik van ChatGPT.
+
+:::
+
+### ...soms gaat het mis...
+
+:::{figure} ../assets/chatgpt-grillige-grens.drawio.png
+:width: 400
+
+De grillige grens tussen succes en falen van ChatGPT
+
+:::
+
+Het resultaat van ChatGPT is vaak goed, maar soms gaat het subtiel of spectaculair mis.
+ChatGPT verzint dan een *plausibel* antwoord dat feitelijk onjuist is.
+
+ChatGPT kan een referentie naar een artikel geven van een bestaande auteur.
+De referentie voldoet aan alle eisen van een wetenschappelijke referentie,
+en ziet er *plausibel* uit - maar de betreffende auteur heeft het artikel niet geschreven. 
+Op grond van haar expertise had ze dat artikel kunnen schrijven - 
+maar dat is nooit gebeurd.
+
+Een jurist in de USA is hiermee bij de rechtbank onderuit gegaan: 
+de jurisprudentie die hij aanhaalde (via ChatGPT verzameld) was bedacht.
+
+In zo'n geval spreken we wel over het "hallucineren van generatieve AI".
+
+Er is een *grillige grens* tussen wat wel en wat niet goed gaat.
+Soms gaat een geval waarvan je denkt dat het relatief eenvoudig is, faliekant mis.
+En soms gaat een moeilijk geval verrassend goed.
+
+**Conclusie**: je moet altijd het resultaat van ChatGPT controleren.
+Hiervoor heb je goede informatievaardigheden nodig, geholpen door relevante kennis.
+
+:::{admonition} Achtergrond
+:class: dropdown
+
+Zie: https://arstechnica.com/tech-policy/2023/06/lawyers-have-real-bad-day-in-court-after-citing-fake-cases-made-up-by-chatgpt/
+
+Voor de "grillige grens" (jagged frontier), zie: 
+[Centaurs and Cyborgs on the jagged frontier](https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged)
+
+:::
+
+### Hoe gebruik je ChatGPT?
+
+
 
 ## Zelf aan de slag (1)
 
@@ -111,7 +303,7 @@ en ChatGPT in het bijzonder.
 
 * https://www.youtube.com/playlist?list=PL0EdWFC9ZZrUAirFa2amE4Hg05KqCWhoq
 
-`code.org` heeft een vergelijkbare reeks video's: AI 101 voor docenten.
+`code.org` heeft een vergelijkbare reeks video's: *AI 101 voor docenten*.
 Je vindt daar ook meer inhoudelijke video's over LLMs en AI in het algemeen.
 
 * https://code.org/ai/pl/101
