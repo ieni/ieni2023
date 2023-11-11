@@ -20,7 +20,7 @@ parts:
       - file: inf/pilot-oeno-inf
       - file: inf/keuzethemas
       - file: inf/heleen-1
-      - file: inf/copilot-in-de-praktijk
+#      - file: inf/copilot-in-de-praktijk
       - file: inf/games-ux
       - file: inf/app-maken-met-code-org
       - file: inf/cisco
