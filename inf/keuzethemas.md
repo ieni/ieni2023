@@ -2,6 +2,8 @@
 
 **Eelco Dijkstra (i&i)**
 
+Zie de [presentatie](../assets/open-leermaterialen-keuzethemas-inf.pdf)
+
 In het kader de van Pilot Open Leermaterialen wordt het materiaal van een aantal
 keuzethema's aangepast, en wordt de infrastructuur daarvoor verder opgezet.
 In deze sessie beschrijven we de nieuwste ontwikkelingen:
