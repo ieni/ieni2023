@@ -34,7 +34,7 @@ BBG = Buys Ballotgebouw; M = Minnaertgebouw
 (wijzigingen voorbehouden)
 :::
 
-:::{image} assets/ieni-november-2023-programma-v3.png
+:::{image} assets/ieni-november-2023-programma-v4.png
 :align: center
 :width: 700
 :::
