@@ -271,7 +271,57 @@ maar niet een "waar" antwoord geeft. En denk eraan dat ChatGPT niet deterministi
 is: eenzelfde vraag kan verschillende antwoorden geven.
 (Je kunt om een ander antwoord vragen door de "regenerate" knop.)
 
+## ChatGTP in het onderwijs
+
+**Kansen, beperkingen en ethisch gebruik**
+
+Drie belangrijke punten bij het gebruik van ChatGPT in het onderwijs:
+
+* ChatGPT is overal (en laagdrempelig) beschikbaar
+* ChatGTPT is transformatief - *disruptive innovation*
+* het gebruik van ChatGPT is *niet detecteerbaar*
+
+**Overal beschikbaar.** Er zijn allerlei manieren om toegang te krijgen tot 
+ChatGPT en andere LLMs, van gratis versies tot betaalde versies.
+De gratis versies lopen wat achter in de technologie, maar zijn voor veel doeleinden
+ook goed te gebruiken. Zowel OpenAI als Microsoft (Bing) en Google (Bard) 
+bieden gratis versies aan.  
+Ook de betaalde versies, van bijvoorbeeld OpenAI (ChatGPT 4 Plus) maar ook van
+Khan Academy (Khanmigo) zijn voor veel mensen te betalen.
+(Die kosten zijn veel lager dan bijlessen of examentraining.)
+
+**ChatGPT is transformatief.** ChatGPT heeft alle kenmerken van een 
+*disruptive innovation*: deze zet de bestaande verhoudingen op de kop.
+Dit betekent dat je over veel zaken, bijvoorbeeld in het onderwijs, 
+op een fundamentele manier moet nadenken wat de betekenis ervan is in een
+wereld met AI. (Dit denken is in veel domeinen, bijvoorbeeld in het onderwijs,
+nog maar net begonnen.)
+
+**ChatGPT is niet detecteerbaar.** Je kunt niet detecteren dat het resultaat
+gemaakt is met behulp van AI. Ook al vallen veel leerlingen nu nog door de mand,
+bijvoorbeeld door een taalgebruik dat niet bij hen past, 
+dat zal in de nabije toekomst al "gerepareerd" zijn.
+(Een voorbeeld is een leerling die aan ChatGPT aangaf dat het resultaat eruit 
+moest zien als gemaakt door een dyslectische leerling. 
+Het resultaat bevatte precies de fouten die je van zo'n leerling verwacht.)
+
+De figuur hierboven geeft het resultaat van een taal-analyse van afstudeerscripties
+van studenten uit Delft. Na de introductie van ChatGPT in november 2022 komen ineens
+veel meer minder gangbare Engelse woorden in deze scripties voor.
+Dit doet vermoeden dan deze studenten AI gebruikt hebben voor het schrijven van hun
+scriptie. 
+(Voor zover bekend is heeft deze lichting niet een extra cursus Engels gekregen.)
+Een student die zijn taalgebruik wil aanpassen kan ChatGPT gewoon een aantal
+voorbeeld-documenten geven, bijvoorbeeld oudere afstudeeerscripties, om dit effect
+te vermijden.
+
+Deze punten worden o.a. in de presentaties van Mollick & Mollick genoemd.
+
+Het detecteren van 
+
 ## Beperkingen en ethisch gebruik
+
+### 
 
 ### ChatGPT heeft een grillige grens
 
