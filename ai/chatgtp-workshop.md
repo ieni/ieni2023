@@ -220,7 +220,40 @@ Voor de "grillige grens" (jagged frontier), zie:
 
 ### Hoe gebruik je ChatGPT?
 
+ChatGPT heeft geen handleiding.
 
+Voor een deel is deze misschien niet nodig, omdat het interface heel eenvoudig is:
+je geeft opdrachten in natuurlijke taal, en krijgt antwoord in natuurlijke taal.
+(Of, in de vorm van een plaatje, als je daarom vraagt.)
+
+Maar: de makers van ChatGPT weten zelf ook eigenlijk niet hoe het werkt,
+en aan welke "knoppen" je kunt draaien om een goed resultaat te krijgen.
+Bovendien weten ze helemaal niet hoe ze ChatGPT het best kunnen aanpassen aan
+jouw specifieke situatie.
+
+De beste manier is daarom om zelf aan de slag te gaan met ChatGPT,
+en te experimenteren met verschillende mogelijkheden.
+Na een aantal uren experimenteren krijg je een gevoel voor wat werkt en wat niet.
+(Je *traint* op deze manier jezelf in het gebruik van ChatpGPT.)
+Je kunt dit het beste doen met je dagelijkse taken, vooral als die wat lastiger
+zijn of veel tijd kosten.
+
+Als je een eerste reactie krijgt die je niet bevalt, vraag ChatpGPT dan om een
+aanvulling of een verbetering: vraag door en stuur bij totdat je een bevredigend
+resultaat krijgt. Je voert een gesprek met ChatpGPT totdat het resultaat goed is
+(*conversational prompting*).
+
+(Later in deze workshop ga je aan de slag met *gestructureerde prompts*,
+maar probeer eerst zelf uit wat voor jou werkt en wat niet.)
+
+:::{admonition} Achtergrond
+:class: dropdown 
+
+In zijn blog [two paths to prompting](https://www.oneusefulthing.org/p/working-with-ai-two-paths-to-prompting)
+maakt Ethan Mollick onderscheid tussen *conversational prompting*, 
+zoals hier bedoeld, en *structured prompting*.
+
+:::
 
 ## Zelf aan de slag (1)
 
@@ -236,6 +269,7 @@ waarop ChatGPT werkt: wat werkt wel, wat werkt niet.
 Houd er rekening mee dat ChatGPT soms "hallucineert", en misschien wel een plausibel,
 maar niet een "waar" antwoord geeft. En denk eraan dat ChatGPT niet deterministisch
 is: eenzelfde vraag kan verschillende antwoorden geven.
+(Je kunt om een ander antwoord vragen door de "regenerate" knop.)
 
 ## Beperkingen en ethisch gebruik
 
