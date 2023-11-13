@@ -2,6 +2,8 @@
 
 **Serge Thill, Wouter Janssen (NOLAI)**
 
+Zie de [presentatie](../assets/ieni-keynote-tir-20231109.pdf)
+
 Het onderzoek op het gebied van machinaal leren en kunstmatige intelligentie
 vindt steeds meer toepassingen in veel maatschappelijk relevante domeinen
 zoals ons onderwijs. Bijna een jaar na de introductie van ChatGPT lijkt de

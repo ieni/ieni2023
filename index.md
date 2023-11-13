@@ -13,10 +13,13 @@ Digitale geletterdheid-onderwerpen.
   Universiteit Utrecht  
 * **datum en tijd**: 9 november 2023, 9:00 - 17:30 uur
   
-:::{admonition} Voorbereiding
-* neem je laptop mee
-* maak een [ChatGPT account](https://chat.openai.com/) aan
-* sommige sessies vragen nog een extra voorbereiding
+:::{admonition} Terugblik
+Deze website bevat het programma en de presentaties van de conferentie van 9 november 2023,
+voor het geval je deze terug wilt zien.
+
+(Momenteel, 13 november, zijn nog niet alle presentaties compleet.
+We verwachten dat dit eind deze week wel het geval is.)
+
 :::
 
 ## Programma

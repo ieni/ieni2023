@@ -34,5 +34,5 @@ parts:
     chapters:
       - file: ai/prompts
       - file: ai/ieni-volgens-chatgpt
-      - file: ai/chatgtp-workshop
+      - file: ai/chatgpt-workshop
 

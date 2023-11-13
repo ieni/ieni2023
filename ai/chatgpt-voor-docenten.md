@@ -4,6 +4,17 @@
 
 Zie de [presentatie](../assets/chatten-met-docenten.pdf)
 
+:::{admonition} Deze workshop zelf geven?
+We willen jullie graag helpen om deze workshop op je eigen school te geven
+voor je collega-docenten.
+Neem in dat geval even contact op met ons, ook voor eventuele assistentie.
+We horen graag jullie ervaringen en suggesties om deze workshop te verbeteren!
+
+De tekst van de workshop, met de nodige achtergrondinformatie, vind je
+[hier](chatgpt-workshop).
+:::
+
+
 ChatGPT komt zonder handleiding. Het interface is erg eenvoudig: je kunt in
 natuurlijke taal, Engels of Nederlands, een vraag stellen, en je krijgt een
 antwoord in diezelfde taal. Dat is alles. Maar daarmee weet je nog niet wat de
