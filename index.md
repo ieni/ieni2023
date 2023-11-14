@@ -12,27 +12,19 @@ Digitale geletterdheid-onderwerpen.
 * **locatie**: [Victor J. Koningsbergergebouw](https://www.uu.nl/victor-j-koningsbergergebouw),
   Universiteit Utrecht  
 * **datum en tijd**: 9 november 2023, 9:00 - 17:30 uur
-* [**aanmeldformulier**](https://www.smink-registratie.nl/ieni/) - 
-  *neem een collega mee als gast, zonder extra kosten!*
   
-:::{admonition} Voorbereiding
-* neem je laptop mee
-* maak een [ChatGPT account](https://chat.openai.com/) aan
-* sommige sessies vragen nog een extra voorbereiding
+:::{admonition} Terugblik
+Deze website bevat het programma en de presentaties van de conferentie van 9 november 2023,
+voor het geval je deze terug wilt zien.
+
+(Momenteel, 13 november, zijn nog niet alle presentaties compleet.
+We verwachten dat dit eind deze week wel het geval is.)
+
 :::
 
 ## Programma
 
 [zie programma in detail](#detail-programma)
-
-:::{admonition} Let op!
-:class: warning
-
-De laatste sessies in de laatste kolom vinden in het Auditorium plaats.  
-BBG = Buys Ballotgebouw; M = Minnaertgebouw
-
-(wijzigingen voorbehouden)
-:::
 
 :::{image} assets/ieni-november-2023-programma-v4.png
 :align: center
@@ -194,8 +186,6 @@ Informatie-vaardig-heden in je (PO/VO) lessen
 
 ---
 
-
-
 :::
 
 :::{card}
@@ -207,7 +197,6 @@ Informatie-vaardig-heden in je (PO/VO) lessen
 [Fundament Informatica - Instruct](inf/instruct) *Adriaan Gijssen e.a.*
 
 :::
-
 
 ::::
 
