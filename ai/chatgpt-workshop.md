@@ -317,11 +317,9 @@ te vermijden.
 
 Deze punten worden o.a. in de presentaties van Mollick & Mollick genoemd.
 
-Het detecteren van 
 
-## Beperkingen en ethisch gebruik
 
-### 
+
 
 ### ChatGPT heeft een grillige grens
 
@@ -347,17 +345,207 @@ een *grillige grens* tussen wat wel en wat niet werkt.
 Je moet altijd controleren of het resultaat klopt, 
 soms word je aangenaam verrast, en soms zul je je "snijden aan de rafelrand".
 
-* 
+### Bloom's 2-sigma probleem
+
+Benjamin Bloom, bekend van o.a. *Bloom's taxonomy*, heeft veel onderzoek gedaan
+Hij heeft onderzoek gedaan naar manieren hoe je het *onderwijs* (dus aan de kant van
+de docent) kunt verbeteren voor betere leeruitkomsten.
+
+Eén van de manieren daarvoor is *mastery learning*. Daarbij mag  een leerling pas verder
+met het volgende onderwerp, als deze het huidige *goed* beheerst (op het niveau
+van een 8 of een 9). De leerling krijgt extra oefening en extra tijd om dat niveau
+te bereiken.
+
+(Mastery Learning is vooral van belang bij vakken waar kennis en vaardigheden "stapelen",
+zoals bij de Bèta-wetenschappen. Bij Geschiedenis is dat misschien minder van belang.)
+
+Het blijkt dat mastery learning in klasverband een verbetering geeft ten opzichte van
+de "normale" manier van werken van 1 sigma (1 standaarddeviatie). Dat komt ongeveer
+overeen met 1,5 tot 2 punten (in ons cijfermodel).
+
+Je kunt een nog veel grotere verbetering krijgen, van 2 sigma, door leerlingen 1 op 1
+met een goede tutor te laten werken, die op elk moment de leerling precies de juiste
+uitdaging geeft (als in een computer game).
+
+Kunnen we met een AI-gebaseerde tutor mogelijk een dergelijk effect benaderen?
+Dat zou een revolutie in het onderwijs betekenen!
+
+:::{admonition} Achtergrond
+:class: dropdown
+
+Zie Wikipedia: https://en.wikipedia.org/wiki/Bloom's_2_sigma_problem
+
+Het oorspronkelijke artikel van Bloom uit 1984: https://web.mit.edu/5.95/readings/bloom-two-sigma.pdf
+
+Bloom, Benjamin S (June–July 1984). "The 2 Sigma Problem: The Search for Methods of 
+Group Instruction as Effective as One-to-One Tutoring" (PDF). 
+Educational Researcher. 13 (6): 4–16. doi:10.3102/0013189x013006004. S2CID 1714225.
+
+Uitdaging volgens Bloom: *find methods of group instruction as effective as one-to-one tutoring*.
+
+Over mastery learning:
+* *students must achieve a level of mastery (e.g., 90% on a knowledge test) in 
+  prerequisite knowledge before moving forward to learn subsequent information on a topic.*
+  
+> Failure for a student to achieve mastery is viewed, 
+> differently from conventional educational testing, 
+> as due to instruction rather than lack of student ability.
+
+Op elk moment de juiste uitdaging: zie de "Zone of Proximal Development" (ZPD) van
+Vygotski (https://en.wikipedia.org/wiki/Zone_of_proximal_development).
+In het Nederlands: de zone van naaste ontwikkeling.
+
+:::
+
+### Khan Migo
+
+De Khan Academy probeert een dergelijke AI tutor te maken, Khanmigo, op basis van 
+CHatGPT. Deze is op de volgende manieren gespecialiseerd:
+
+* voor leerlingen gedraagt deze zich als zeer geduldige tutor:
+    * helpt leerlingen bij het maken van hun opdrachten
+    * maar, zegt geen antwoorden voor, en maakt hun huiswerk niet
+* transparant naar docent (en ouders): deze kunnen zien wat een leerling gedaan heeft,
+zoals de chat-geschiedenis met de tutor.
+* voor docenten is dit een goede assistent:
+    * houdt de voortgang van de leerlingen bij
+    * helpt met het voorbereiden van lessen e.d.
+* de meeste AI risico's worden vermeden:
+    * geen inbreuk op privacy e.d.
+    * blijft veilig binnen de "grillige grens", minimaal risico op hallicunaties
+    * blijft bij het onderwerp
+
+Op dit moment (nov. 2023) is Khanmigo alleen nog maar beschikbaar in de USA.
+
+Zie: https://www.khanacademy.org/khan-labs
+
+:::{admonition} Achtergrond
+:class: dropdown
+
+Zie bijvoorbeeld de video: https://www.youtube.com/watch?v=sOWHNKHAMkQ 
+(Harnessing AI for education) voor een uitleg van de visie van Sal Khan op AI.
+:::
+
+### Gebruik ChatGPT als tutor
+
+Je kunt ChatGPT ook "programmeren" als tutor in een bepaald onderwerp, 
+door middel van  *gestructureerde prompts*".
+
+### Punt van zorg: betrouwbaarheid
+
+ChatGPT is een taalmodel, geen kennismodel: heeft geen "begrip van waarheid".
+ChatGPT geeft op grond van de trainingsdata een plausibel antwoord - dat niet waar hoeft te zijn.
+Hoe ga je daar mee om?
+
+*Je moet het antwoord altijd controleren** - en dat vraagt beslist om goede
+informatievaardigheden.
+
+Een andere zorg is dat je veel uitingen op het web zult krijgen die met 
+generatieve AI zoals ChatGPT gemaakt zijn.
+Deze zijn niet "van echt te onderscheiden" - bijvoorbeeld toespraken van 
+bekende personen, foto's of video's van bekende personen - die wat inhoud betreft
+(net iets) anders zijn dan je verwacht.
+
+Hoe weet je dan of het om echte foto's en video's gaat?
+Om dat goed uit te zoeken, moet je echt goede informatievaardigheden hebben.
+
+:::{admonition} Achtergrond
+:class: dropdown
+
+Een groep met zeer goede informatievaardigheden is Bellingcat (https://www.bellingcat.com).
+Deze groep heeft bijvoorbeeld aan de hand van foto's, video's en ander materiaal
+op het web uitgezocht wat er met de MH-17 gebeurd is.
+Ze combineren hiervoor materiaal uit heel veel verschillende bronnen,
+waardoor bijvoorbeeld een bron die gemanipuleerd is snel opvalt.
+
+Zie bijvoorbeeld: [hoe onderscheid je feit en fictie op sociale media in tijden van oorlog](https://www.bellingcat.com/resources/how-tos/2023/10/26/separating-fact-from-fiction-on-social-media-in-times-of-conflict/)
+:::
+
+
+### Punt van zorg: bias
+
+Als je een LLM vraagt om een arts of van een advocaat te tekenen,
+dan zul je in veel (te veel) gevallen een tekening krijgen van een 
+blanke man in die rol.
+Dat komt doordat de data waarmee de meeste LLMs getraind zijn, sterk gekleurd is;
+ofwel, een bias bevat.
+
+Veel data heeft een dergelijke bias: denk aan de medische onderzoeken, die vaak
+gedaan worden met mannen van 25-35 jaar; of sollicitatiegegevens, die de 
+verborgen voorkeuren van de sollicitatiecommissies weergeven.
+
+Als je hier alert op bent, kun je bij je opdrachten ook aangeven hoe je wilt
+dat het resultaat eruit moet zien, bijvoorbeeld een tekening van
+een jonge afrikaanse vrouw als arts.
+
+### Punt van zorg: privacy
+
+:::{admonition} Achtergrond
+
+Bekijk voor het verdienmodel van OpenAI, het bedrijf achter ChatGPT, de uitleg van
+hun plannen in de keynote van november 2023: https://www.youtube.com/watch?v=U9mJuUkhUzk
+
+:::
+
+
+### Anders omgaan met huiswerk
+
+Je kunt niet nagaan of leerlingen voor het maken van hun huiswerk gebruik gemaakt
+hebben van ChatGPT - net zomin overigens als je weet of hun ouders of 
+oudere broer of zus geholpen hebben.
+
+Dit betekent dat je op een andere manier moet omgaan met het maken van huiswerk.
+
+Je kunt leerlingen toestaan om ChatGPT te gebruiken bij hun huiswerk,
+maar dat ze zich wel aan een aantal regels moeten houden:
+
+* ze moeten de gebruikte prompts en de antwoorden erbij vermelden;
+* ze moeten de gebruikte antwoorden gecontroleerd hebben;
+* ze moeten wat ze inleveren kunnen uitleggen: als je er vragen over stelt, 
+moeten ze die kunnen beantwoorden.
+
+Je kunt soms ook (veel) hogere eisen stellen aan de opdracht;
+bijvoorbeeld, een werkende website in plaats van een powerpoint-prototype.
+
+Je moet leerlingen goed duidelijk maken wat de rol van huiswerk is,
+en daarbij passende opdrachten geven.
+
+Leer studenten LLMs te gebruiken als hulp bij het leren en bij het uitvoeren van taken,
+niet voor het maken van opdrachten waar je van zou kunnen leren.
+
+> De zekerste manier om ervoor te zorgen dat computers later je werk overnemen,
+> is om ze nu je huiswerk te laten maken.
+
+Je traint dan wel de computers, maar niet jezelf.
+
+:::{admonition} Achtergrond
+
+Zie de blog van Ethan Mollick op ondeusefulthing.org: 
+[The Homework Apocalypse](https://www.oneusefulthing.org/p/the-homework-apocalypse)
+:::
+
 ## Gestructureerde prompts
 
 Eerder ben je aan de slag gegaan met "conversational prompts". 
 Een andere, complementaire, aanpak is het gebruik van *gestructureerde prompts*.
 Door het gebruik van bepaalde elementen kun je ChatGPT sturen in een bepaalde richting.
 
-In het boek Chatten met Napoleon zijn veel voorbeelden te vinden van 
-dergelijke gestructureerde prompts.
-In het begeleidende materiaal zijn varianten te vinden van de prompts van
-Mollick & Mollick.
+Bijvoorbeeld:
+
+* geef ChatGPT een bepaalde **rol** of **persona**
+* beschrijf de **taak** die ChatGPT moet uitvoeren duidelijk en precies, 
+eventueel in de vorm van een **stappenplan** of een aantal **voorbeelden**.
+* beschrijf de **context** van de taak
+* beschrijf de **doelgroep**
+* beschrijf de **vorm van het resultaat** dat je verwacht.
+
+
+Het boek Chatten met Napoleon bevat veel voorbeelden van 
+dergelijke gestructureerde prompts, voor allerlei situaties in het onderwijs,
+voor docenten en voor leerlingen.
+
+In het begeleidende materiaal bij deze cursus zijn varianten te vinden van de [prompts van
+Mollick & Mollick](prompts.md).
 
 :::{admonition} Achtergrond
 :class: dropdown
@@ -373,7 +561,6 @@ met document met prompt-voorbeelden voor docenten
     - https://docs.google.com/document/d/1E74yMRBBy6UDTueKm2rNHHNkKSTh0LjjADArun7Lz9w/edit
 * https://github.com/microsoft/prompts-for-edu/tree/main
     - Microsoft's verzameling van de prompts van Mollick & Mollick voor onderwijs. 
-*
 
 Enkele blog-posts van Ethan Mollick over prompting:
 

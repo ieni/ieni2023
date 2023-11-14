@@ -5,6 +5,8 @@
 
 **Josien Boetje, Hogeschool Utrecht**
 
+Zie de [presentatie](../assets/2023-11-09_ieni_digitale-informatievaardigheden-in-po-en-vo-josien-boetje.pdf)
+
 Verrijk je onderwijs met digitale informatievaardigheden! 
 In deze 90-minuten durende workshop duiken we in de wetenschappelijke inzichten 
 over effectieve didactiek van informatie-vaardigheden. 
