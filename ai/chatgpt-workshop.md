@@ -10,6 +10,8 @@ en een redelijk aantal uren (tenminste 10) zelf geëxperimenteerd hebben, kunnen
 workshop ook geven voor hun collega-docenten. Bij de voorbereiding kan het i&i-team
 ondersteuning bieden. Vragen en opmerkingen bij dit materiaal zijn welkom:
 we proberen deze workshop steeds te verbeteren en bij-de-tijd te houden.
+
+De workshop duurt ca. 90 minuten, een eventuele pauze niet meegerekend.
 :::
 
 Indeling:
@@ -275,7 +277,8 @@ is: eenzelfde vraag kan verschillende antwoorden geven.
 
 **Kansen, beperkingen en ethisch gebruik**
 
-Drie belangrijke punten bij het gebruik van ChatGPT in het onderwijs:
+Drie belangrijke punten bij het gebruik van ChatGPT in het onderwijs
+(volgens Mollick & Mollick):
 
 * ChatGPT is overal (en laagdrempelig) beschikbaar
 * ChatGTPT is transformatief - *disruptive innovation*
@@ -323,8 +326,6 @@ Een student die zijn taalgebruik wil aanpassen kan ChatGPT gewoon een aantal
 voorbeeld-documenten geven, bijvoorbeeld oudere afstudeeerscripties, om dit effect
 te vermijden.
 (Bron: [Can ChatGPT be used to assess students work? (preprint)](https://www.researchgate.net/publication/374192412_Can_ChatGPT_be_used_to_assess_student_works_A_discussion_and_workshop))
-
-Deze punten worden o.a. in de presentaties van Mollick & Mollick genoemd.
 
 ### Ondersteuning van professionals - ook voor docenten?
 
