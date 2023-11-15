@@ -10,6 +10,8 @@ en een redelijk aantal uren (tenminste 10) zelf geëxperimenteerd hebben, kunnen
 workshop ook geven voor hun collega-docenten. Bij de voorbereiding kan het i&i-team
 ondersteuning bieden. Vragen en opmerkingen bij dit materiaal zijn welkom:
 we proberen deze workshop steeds te verbeteren en bij-de-tijd te houden.
+
+De workshop duurt ca. 90 minuten, een eventuele pauze niet meegerekend.
 :::
 
 Indeling:
@@ -29,6 +31,8 @@ De onderdelen "Zelf aan de slag" bestaan uit een korte instructie,
 waarna de deelnemers ca. 15 minuten aan de slag gaan.
 Aan het eind van zo'n onderdeel kun je 5 minuten vragen naar de ervaringen,
 zowel positieve als negatieve.
+
+**De onderstaande tekst hoort bij de [presentatie](../assets/chatten-met-docenten.pdf)**
 
 ## ChatGPT: wat, waarom, hoe?
 
@@ -176,6 +180,8 @@ Nog enkele opvallende punten:
 Beide waren het vrijwel altijd eens;
 * de AI-ondersteunde groep is niet speciaal getraind voor het gebruik van ChatGPT.
 
+Het *working paper* zelf vind je [hier](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321).
+
 :::
 
 ### ...soms gaat het mis...
@@ -275,7 +281,8 @@ is: eenzelfde vraag kan verschillende antwoorden geven.
 
 **Kansen, beperkingen en ethisch gebruik**
 
-Drie belangrijke punten bij het gebruik van ChatGPT in het onderwijs:
+Drie belangrijke punten bij het gebruik van ChatGPT in het onderwijs
+(volgens Mollick & Mollick):
 
 * ChatGPT is overal (en laagdrempelig) beschikbaar
 * ChatGTPT is transformatief - *disruptive innovation*
@@ -305,6 +312,14 @@ dat zal in de nabije toekomst al "gerepareerd" zijn.
 moest zien als gemaakt door een dyslectische leerling. 
 Het resultaat bevatte precies de fouten die je van zo'n leerling verwacht.)
 
+:::{figure} ../assets/taalgebruik-scripties-delft.png
+
+Prevalence of target words (red) and control words (green) in the meta-data of 
+MSc theses in the TU Delft education repository. 
+The number in parentheses represents the total number of abstracts in the year 2023 
+(source: https://repository.tudelft.nl/islandora/search/?collection=education)
+:::
+
 De figuur hierboven geeft het resultaat van een taal-analyse van afstudeerscripties
 van studenten uit Delft. Na de introductie van ChatGPT in november 2022 komen ineens
 veel meer minder gangbare Engelse woorden in deze scripties voor.
@@ -314,36 +329,19 @@ scriptie.
 Een student die zijn taalgebruik wil aanpassen kan ChatGPT gewoon een aantal
 voorbeeld-documenten geven, bijvoorbeeld oudere afstudeeerscripties, om dit effect
 te vermijden.
+(Bron: [Can ChatGPT be used to assess students work? (preprint)](https://www.researchgate.net/publication/374192412_Can_ChatGPT_be_used_to_assess_student_works_A_discussion_and_workshop))
 
-Deze punten worden o.a. in de presentaties van Mollick & Mollick genoemd.
+### Ondersteuning van professionals - ook voor docenten?
 
+We hebben eerder gezien dat ChatGPT consultants helpt om hun werk (veel) beter te doen,
+in minder tijd. (Ook bij programmeurs zien we soortgelijke verbeteringen.)
 
+Kan ChatGPT ook docenten op een dergelijke manier helpen?
+Hier kom je alleen achter door dit zelf te proberen, 
+door ervaringen met elkaar te delen, en door van elkaar te leren.
 
-
-
-### ChatGPT heeft een grillige grens
-
-:::{figure} ../assets/chatgpt-grillige-grens.drawio.png
-:width: 400
-:align: center
-
-ChatGPT: grillige grens
-:::
-
-ChatGPT geeft, net als andere LLMs, een plausibel antwoord - maar dat is niet altijd *waar*.
-Soms is het compleet bedacht: CHatGPT "hallucineert".
-
-Zo kan ChatGPT refereren aan een boek of artikel van een bepaalde auteur.
-De titel in combinatie met de auteur is plausibel: 
-zij zou dat artikel geschreven kunnen hebben.
-Ook de referentie voldoet aan alle regels voor referenties.
-Maar het gaat om een niet-bestaand artikel.
-
-Je kunt niet van te voren zeggen of ChatGPT een bepaalde taak naar behoren zal uitvoeren.
-Door te experimenteren kun je een zekere intuïtie daarvoor opbouwen, maar ChatGPT heeft
-een *grillige grens* tussen wat wel en wat niet werkt. 
-Je moet altijd controleren of het resultaat klopt, 
-soms word je aangenaam verrast, en soms zul je je "snijden aan de rafelrand".
+(Een mogelijke vorm is om als PLG of DOT met een groepje collega's elkaa regelmatig
+hierover te spreken, bijvoorbeeld elke 4 weken 1,5 uur, gedurende een jaar of langer.)
 
 ### Bloom's 2-sigma probleem
 
@@ -428,8 +426,20 @@ Zie bijvoorbeeld de video: https://www.youtube.com/watch?v=sOWHNKHAMkQ
 
 ### Gebruik ChatGPT als tutor
 
-Je kunt ChatGPT ook "programmeren" als tutor in een bepaald onderwerp, 
-door middel van  *gestructureerde prompts*".
+Je kunt ChatGPT ook "programmeren" als tutor in een bepaald onderwerp.
+
+Dit kan door middel van een conversatie-prompt: als leerling (gebruiker) kun je
+steeds doorvragen op die punten waar je verheldering, uitleg, voorbeelden, oefeningen,
+e.d. wilt. Dit vraagt wat meer initiatief en oefening.
+
+Het kan ook door middel van *gestructureerde prompts*".
+Voorbeelden daarvan vind je in de [bijlage](prompts) 
+en in het boek Chatten met Napoleon.
+
+Sinds kort kun je via een uitgebreide gestructureerde prompt, eventueel aangevuld
+met eigen documenten, een gespecialiseerde tutor-GPT maken.
+Het ligt in de verwachting dat hiervan meerdere voorbeelden beschikbaar komen
+via de "ChatGPT markt".
 
 ### Punt van zorg: betrouwbaarheid
 
@@ -596,29 +606,25 @@ De belangrijkste bronnen die wij gebruikt hebben (en nog steeds gebruiken):
 
 ### Boek
 
-Het boek "Chatten met Napoleon" geeft een goede start voor het gebruik van ChatGPT
-in het onderwijs. De verschillende aspecten van dit gebruik, inclusief ethiek
+Het boek [Chatten met Napoleon](https://www.boomhogeronderwijs.nl/product/100-14318_Chatten-met-Napoleon)
+van Barend Last en Thijmen Sprakel geeft een goede 
+start voor het gebruik van ChatGPT in het onderwijs. 
+De verschillende aspecten van dit gebruik, inclusief ethiek
 en beleid, komen hierin aan de orde. Lezen! (...dat is nog steeds niet ouderwets...)
-
-* https://www.boomhogeronderwijs.nl/product/100-14318_Chatten-met-Napoleon
 
 ### Video's
 
 Ethan Mollick en Lilach Mollick hebben een reeks korte video's (samen ca. 1 uur) over
-*Practical AI for Teachers and Students*, gericht op LLMs in het algemeen
-en ChatGPT in het bijzonder.
+[Practical AI for Teachers and Students](https://www.youtube.com/playlist?list=PL0EdWFC9ZZrUAirFa2amE4Hg05KqCWhoq), 
+gericht op LLMs in het algemeen en ChatGPT in het bijzonder.
 
-* https://www.youtube.com/playlist?list=PL0EdWFC9ZZrUAirFa2amE4Hg05KqCWhoq
-
-`code.org` heeft een vergelijkbare reeks video's: *AI 101 voor docenten*.
+`code.org` heeft een vergelijkbare reeks video's: 
+[AI 101 voor docenten](https://code.org/ai/pl/101) .
 Je vindt daar ook meer inhoudelijke video's over LLMs en AI in het algemeen.
 
-* https://code.org/ai/pl/101
-
-De onderstaande video geeft een goed inzicht in de plannen van de Khan Academy voor de inzet
-van ChatGPT als *tutor* (Khan Migo).
-
-* Harnessing AI for education: https://www.youtube.com/watch?v=sOWHNKHAMkQ
+De video [Harnessing AI for education](https://www.youtube.com/watch?v=sOWHNKHAMkQ)
+geeft een goed inzicht in de plannen van de 
+Khan Academy voor de inzet van ChatGPT als *tutor* (Khan Migo).
 
 ### Blogs
 

@@ -2,6 +2,8 @@
 
 **Jacqueline Nijenhuis-Voogt, Radboud Universiteit Nijmegen**
 
+Zie de [presentatie](../assets/presentatie-ct-in-je-vak-jacqueline.pdf)
+
 Computational Thinking is een onderdeel van digitale geletterdheid.
 Maar wat is het precies? En hoe kun je Computational Thinking concreet
 oppakken en integreren in je lespraktijk? Voor informatica-docenten is dat
