@@ -32,6 +32,8 @@ waarna de deelnemers ca. 15 minuten aan de slag gaan.
 Aan het eind van zo'n onderdeel kun je 5 minuten vragen naar de ervaringen,
 zowel positieve als negatieve.
 
+**De onderstaande tekst hoort bij de [presentatie](../assets/chatten-met-docenten.pdf)**
+
 ## ChatGPT: wat, waarom, hoe?
 
 ### ChatGPT is een LLM
@@ -177,6 +179,8 @@ Nog enkele opvallende punten:
 * zowel menselijke experts als ChatGPT gaven een beoordeling van de resultaten.
 Beide waren het vrijwel altijd eens;
 * de AI-ondersteunde groep is niet speciaal getraind voor het gebruik van ChatGPT.
+
+Het *working paper* zelf vind je [hier](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321).
 
 :::
 
@@ -602,29 +606,25 @@ De belangrijkste bronnen die wij gebruikt hebben (en nog steeds gebruiken):
 
 ### Boek
 
-Het boek "Chatten met Napoleon" geeft een goede start voor het gebruik van ChatGPT
-in het onderwijs. De verschillende aspecten van dit gebruik, inclusief ethiek
+Het boek [Chatten met Napoleon](https://www.boomhogeronderwijs.nl/product/100-14318_Chatten-met-Napoleon)
+van Barend Last en Thijmen Sprakel geeft een goede 
+start voor het gebruik van ChatGPT in het onderwijs. 
+De verschillende aspecten van dit gebruik, inclusief ethiek
 en beleid, komen hierin aan de orde. Lezen! (...dat is nog steeds niet ouderwets...)
-
-* https://www.boomhogeronderwijs.nl/product/100-14318_Chatten-met-Napoleon
 
 ### Video's
 
 Ethan Mollick en Lilach Mollick hebben een reeks korte video's (samen ca. 1 uur) over
-*Practical AI for Teachers and Students*, gericht op LLMs in het algemeen
-en ChatGPT in het bijzonder.
+[Practical AI for Teachers and Students](https://www.youtube.com/playlist?list=PL0EdWFC9ZZrUAirFa2amE4Hg05KqCWhoq), 
+gericht op LLMs in het algemeen en ChatGPT in het bijzonder.
 
-* https://www.youtube.com/playlist?list=PL0EdWFC9ZZrUAirFa2amE4Hg05KqCWhoq
-
-`code.org` heeft een vergelijkbare reeks video's: *AI 101 voor docenten*.
+`code.org` heeft een vergelijkbare reeks video's: 
+[AI 101 voor docenten](https://code.org/ai/pl/101) .
 Je vindt daar ook meer inhoudelijke video's over LLMs en AI in het algemeen.
 
-* https://code.org/ai/pl/101
-
-De onderstaande video geeft een goed inzicht in de plannen van de Khan Academy voor de inzet
-van ChatGPT als *tutor* (Khan Migo).
-
-* Harnessing AI for education: https://www.youtube.com/watch?v=sOWHNKHAMkQ
+De video [Harnessing AI for education](https://www.youtube.com/watch?v=sOWHNKHAMkQ)
+geeft een goed inzicht in de plannen van de 
+Khan Academy voor de inzet van ChatGPT als *tutor* (Khan Migo).
 
 ### Blogs
 
