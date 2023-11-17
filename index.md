@@ -17,8 +17,8 @@ Digitale geletterdheid-onderwerpen.
 Deze website bevat het programma en de presentaties van de conferentie van 9 november 2023,
 voor het geval je deze terug wilt zien.
 
-(Momenteel, 13 november, zijn nog niet alle presentaties compleet.
-We verwachten dat dit eind deze week wel het geval is.)
+(Momenteel, 17 november, staan vrijwel alle presentaties op de website.
+We verwachten binnenkort de rest.)
 
 :::
 

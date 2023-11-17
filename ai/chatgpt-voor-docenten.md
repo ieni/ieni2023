@@ -2,7 +2,7 @@
 
 **Ramon Moorlag, Yuri Tax, Eelco Dijkstra**
 
-Zie de [presentatie](../assets/chatten-met-docenten.pdf)
+Zie de [presentatie](../assets/chatten-met-docenten.pdf) en de [tekst](chatgpt-workshop)
 
 :::{admonition} Deze workshop zelf geven?
 We willen jullie graag helpen om deze workshop op je eigen school te geven
