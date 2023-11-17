@@ -14,6 +14,8 @@ we proberen deze workshop steeds te verbeteren en bij-de-tijd te houden.
 De workshop duurt ca. 90 minuten, een eventuele pauze niet meegerekend.
 :::
 
+**De onderstaande tekst hoort bij de [presentatie](../assets/chatten-met-docenten.pdf)**
+
 Indeling:
 
 | *duur (min)* | *onderdeel* | *wie* |
@@ -31,8 +33,6 @@ De onderdelen "Zelf aan de slag" bestaan uit een korte instructie,
 waarna de deelnemers ca. 15 minuten aan de slag gaan.
 Aan het eind van zo'n onderdeel kun je 5 minuten vragen naar de ervaringen,
 zowel positieve als negatieve.
-
-**De onderstaande tekst hoort bij de [presentatie](../assets/chatten-met-docenten.pdf)**
 
 ## ChatGPT: wat, waarom, hoe?
 
