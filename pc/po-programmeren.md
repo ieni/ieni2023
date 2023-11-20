@@ -4,6 +4,8 @@
 
 **Gerard Dummer, Hogeschool Utrecht**
 
+Zie de [presentatie](../assets/lessenserie-programmeren-dummer.pdf)
+
 Hoe kun je programmeren in de bovenbouw van het basisonderwijs integreren?
 Deze vraag stond en staat centraal in het onderzoek van Gerard Dummer,
 lerarenopleider en onderzoeker aan de Hogeschool Utrecht. In de afgelopen
