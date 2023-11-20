@@ -4,6 +4,8 @@
 
 **Maarten Sprenger** - https://www.slimzoeken.nu
 
+Zie de [presentatie](../assets/2023-slim3-ieni-najaarsconferentie.pdf)
+
 ```{image} ../assets/nepnieuws.jpg 
 :alt: Nepnieuws 
 :width: 500px 
