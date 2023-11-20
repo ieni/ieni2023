@@ -2,6 +2,8 @@
 
 **Adriaan Gijssen, Wouter van de Brink, Kevin van As**
 
+Zie de [presentatie](../assets/presentatie-fundament-instruct.pdf)
+
 In deze inspiratiesessie vertellen we je alles over onze lesmethode voor het
 keuzevak Informatica: Fundament.
 
